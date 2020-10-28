@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/wiki-docs/blob/main/README.md",
-    "title": "wiki-docs/README.md at main · Gaotianhe/wiki-docs",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "path": "/Gaotianhe/wiki-docs/tree/main/notes",
     "title": "wiki-docs/notes at main · Gaotianhe/wiki-docs",
     "count": 6,
@@ -56,6 +50,12 @@
   {
     "path": "/Gaotianhe/wiki-docs/blob/2206ed7066e4658346bdb14b43223d0820059623/docs/program/index.md",
     "title": "wiki-docs/index.md at 2206ed7066e4658346bdb14b43223d0820059623 · Gaotianhe/wi...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/wiki-docs/blob/main/README.md",
+    "title": "wiki-docs/README.md at main · Gaotianhe/wiki-docs",
     "count": 5,
     "uniques": 1
   }

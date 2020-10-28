@@ -2,7 +2,7 @@
   {
     "path": "/Gaotianhe/Changelog/blob/main/sleep.csv",
     "title": "Changelog/sleep.csv at main · Gaotianhe/Changelog",
-    "count": 27,
+    "count": 25,
     "uniques": 1
   },
   {
@@ -14,19 +14,7 @@
   {
     "path": "/Gaotianhe/Changelog/edit/main/sleep.csv",
     "title": "Editing Changelog/sleep.csv at main · Gaotianhe/Changelog",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/Changelog/issues",
-    "title": "Issues · Gaotianhe/Changelog",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/Changelog",
-    "title": "Gaotianhe/Changelog: Recording",
-    "count": 11,
+    "count": 13,
     "uniques": 1
   },
   {
@@ -36,16 +24,22 @@
     "uniques": 1
   },
   {
+    "path": "/Gaotianhe/Changelog",
+    "title": "Gaotianhe/Changelog: Recording",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/Changelog/issues",
+    "title": "Issues · Gaotianhe/Changelog",
+    "count": 10,
+    "uniques": 1
+  },
+  {
     "path": "/Gaotianhe/changelog",
     "title": "Gaotianhe/Changelog: Recording",
     "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/Gaotianhe/Changelog/issues/27",
-    "title": "三日工作计划 · Issue #27 · Gaotianhe/Changelog",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/tianheg/Changelog/edit/main/sleep.csv",
@@ -56,6 +50,12 @@
   {
     "path": "/Gaotianhe/Changelog/issues/17",
     "title": "神秘感产生吸引力 · Issue #17 · Gaotianhe/Changelog",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/Changelog/issues/27",
+    "title": "三日工作计划 · Issue #27 · Gaotianhe/Changelog",
     "count": 4,
     "uniques": 1
   }

@@ -24,12 +24,6 @@
     "uniques": 2
   },
   {
-    "path": "/Gaotianhe/ideas/issues/203",
-    "title": "身份同化 · Issue #203 · Gaotianhe/ideas · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/Gaotianhe/ideas/issues/10",
     "title": "什么是互联网 · Issue #10 · Gaotianhe/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/ideas/issues/15",
+    "title": "主题聚合 · Issue #15 · Gaotianhe/ideas",
     "count": 1,
     "uniques": 1
   }
