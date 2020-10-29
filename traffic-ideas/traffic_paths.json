@@ -1,27 +1,9 @@
 [
   {
-    "path": "/Gaotianhe/ideas/issues/105",
-    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · Gaotianhe/ideas · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/Gaotianhe/ideas/issues",
     "title": "Issues · Gaotianhe/ideas",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/ideas",
-    "title": "GitHub - Gaotianhe/ideas: 某些思想绽放的瞬间",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/Gaotianhe/ideas/issues/166",
-    "title": "前端面试·第166期·高天河",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/97",
@@ -48,14 +30,32 @@
     "uniques": 1
   },
   {
+    "path": "/Gaotianhe/ideas",
+    "title": "Gaotianhe/ideas: 某些思想绽放的瞬间",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Gaotianhe/ideas/issues/10",
     "title": "什么是互联网 · Issue #10 · Gaotianhe/ideas",
     "count": 1,
     "uniques": 1
   },
   {
+    "path": "/Gaotianhe/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · Gaotianhe/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/Gaotianhe/ideas/issues/15",
     "title": "主题聚合 · Issue #15 · Gaotianhe/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/ideas/issues/166",
+    "title": "前端面试·第166期·高天河",
     "count": 1,
     "uniques": 1
   }

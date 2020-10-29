@@ -1,32 +1,14 @@
 [
   {
-    "path": "/Gaotianhe/way-to-life/blob/main/README.md",
-    "title": "way-to-life/README.md at main · Gaotianhe/way-to-life",
-    "count": 28,
-    "uniques": 1
-  },
-  {
     "path": "/Gaotianhe/way-to-life",
     "title": "Gaotianhe/way-to-life: Some truth about life",
-    "count": 18,
+    "count": 9,
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/way-to-life/edit/main/README.md",
-    "title": "Editing way-to-life/README.md at main · Gaotianhe/way-to-life",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/way-to-life/tree/main/docs",
-    "title": "way-to-life/docs at main · Gaotianhe/way-to-life",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/way-to-life/new/main/docs",
-    "title": "New File",
-    "count": 7,
+    "path": "/Gaotianhe/way-to-life/blob/main/README.md",
+    "title": "way-to-life/README.md at main · Gaotianhe/way-to-life",
+    "count": 9,
     "uniques": 1
   },
   {
@@ -36,8 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/way-to-life/blob/main/docs/%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%84%A6%E7%82%B9%E6%95%88%E5%BA%94-%E9%80%8F%E6%98%8E%E8%80%85%E6%95%88%E5%BA%94.md",
-    "title": "way-to-life/心理学中的焦点效应-透明者效应.md at main · Gaotianhe/way-to-life",
+    "path": "/Gaotianhe/way-to-life/edit/main/README.md",
+    "title": "Editing way-to-life/README.md at main · Gaotianhe/way-to-life",
     "count": 4,
     "uniques": 1
   },
@@ -48,15 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/way-to-life/blob/main/docs/%E5%B9%B8%E7%A6%8F%E5%B0%B1%E6%98%AF%E4%BD%A0%E5%9C%A8%E6%B0%B8%E8%BF%9C%E5%A4%B1%E5%8E%BB%E4%B8%80%E6%A0%B7%E4%B8%9C%E8%A5%BF%E7%9A%84%E5%89%8D%E4%B8%80%E5%88%BB.md",
-    "title": "way-to-life/幸福就是你在永远失去一样东西的前一刻.md at main · Gaotianhe/way-to-life",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/Gaotianhe/self-watching",
     "title": "Gaotianhe/self-watching: Some truth about life",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/self-watching/edit/main/README.md",
+    "title": "Editing self-watching/README.md at main · Gaotianhe/self-watching",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self-watching/blob/main/docs/three-levels-of-knowledge-understanding.md",
+    "title": "self-watching/three-levels-of-knowledge-understanding.md at main · tianheg/se...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/way-to-life/blob/main/docs/%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%84%A6%E7%82%B9%E6%95%88%E5%BA%94-%E9%80%8F%E6%98%8E%E8%80%85%E6%95%88%E5%BA%94.md",
+    "title": "way-to-life/心理学中的焦点效应-透明者效应.md at main · Gaotianhe/way-to-life",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/way-to-life/tree/main/docs",
+    "title": "way-to-life/docs at main · Gaotianhe/way-to-life",
+    "count": 1,
     "uniques": 1
   }
 ]
