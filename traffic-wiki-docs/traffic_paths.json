@@ -2,7 +2,7 @@
   {
     "path": "/Gaotianhe/wiki-docs",
     "title": "Gaotianhe/wiki-docs: simple wiki repo + notes:books,films,music",
-    "count": 29,
+    "count": 25,
     "uniques": 4
   },
   {
@@ -12,27 +12,27 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/wiki-docs",
+    "title": "tianheg/wiki-docs: simple wiki repo + notes: read | watch | listen",
+    "count": 13,
+    "uniques": 2
+  },
+  {
     "path": "/Gaotianhe/wiki-docs/tree/main/notes/docs/read",
     "title": "wiki-docs/notes/docs/read at main · Gaotianhe/wiki-docs",
     "count": 13,
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki-docs",
-    "title": "tianheg/wiki-docs: simple wiki repo + notes: read | watch | listen",
-    "count": 12,
+    "path": "/Gaotianhe/wiki-docs/edit/main/notes/docs/read/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1.md",
+    "title": "Editing wiki-docs/人机交互设计.md at main · Gaotianhe/wiki-docs",
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/Gaotianhe/wiki-docs/tree/main/notes/docs",
     "title": "wiki-docs/notes/docs at main · Gaotianhe/wiki-docs",
-    "count": 11,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/wiki-docs/edit/main/notes/docs/read/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1.md",
-    "title": "Editing wiki-docs/人机交互设计.md at main · Gaotianhe/wiki-docs",
-    "count": 10,
+    "count": 9,
     "uniques": 1
   },
   {

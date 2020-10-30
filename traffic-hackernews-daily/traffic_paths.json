@@ -1,19 +1,13 @@
 [
   {
+    "path": "/tianheg/hackernews-daily",
+    "title": "tianheg/hackernews-daily",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Gaotianhe/hackernews-daily",
     "title": "Gaotianhe/hackernews-daily",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/hackernews-daily/runs/1262008241",
-    "title": "recover time code · Gaotianhe/hackernews-daily@ad2409b",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/hackernews-daily/actions/runs/309665117",
-    "title": "recover time code · Gaotianhe/hackernews-daily@ad2409b",
     "count": 2,
     "uniques": 1
   },
@@ -24,26 +18,20 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/hackernews-daily/actions",
-    "title": "Actions · Gaotianhe/hackernews-daily",
+    "path": "/Gaotianhe/hackernews-daily/runs/1262008241",
+    "title": "recover time code · Gaotianhe/hackernews-daily@ad2409b",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/hackernews-daily/actions/runs/309665117",
+    "title": "recover time code · Gaotianhe/hackernews-daily@ad2409b",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/Gaotianhe/hackernews-daily/commits/main",
     "title": "Commits · Gaotianhe/hackernews-daily",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/hackernews-daily/pull/5",
-    "title": "chore(deps): update dependency mocha to v8.2.0 by renovate · Pull Request #5 ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily",
-    "title": "tianheg/hackernews-daily",
     "count": 1,
     "uniques": 1
   }
