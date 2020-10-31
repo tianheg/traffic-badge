@@ -6,18 +6,6 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/way-to-life",
-    "title": "Gaotianhe/way-to-life: Some truth about life",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/way-to-life/blob/main/README.md",
-    "title": "way-to-life/README.md at main · Gaotianhe/way-to-life",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/self-watching",
     "title": "tianheg/self-watching: Some truth about life",
     "count": 4,
@@ -36,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/Gaotianhe/way-to-life/blob/main/README.md",
+    "title": "way-to-life/README.md at main · Gaotianhe/way-to-life",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/Gaotianhe/way-to-life/edit/main/README.md",
     "title": "Editing way-to-life/README.md at main · Gaotianhe/way-to-life",
     "count": 2,
@@ -45,6 +39,12 @@
     "path": "/tianheg/self-watching/blob/main/docs/three-levels-of-knowledge-understanding.md",
     "title": "self-watching/three-levels-of-knowledge-understanding.md at main · tianheg/se...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/Gaotianhe/way-to-life",
+    "title": "Gaotianhe/way-to-life: Some truth about life",
+    "count": 1,
     "uniques": 1
   },
   {
