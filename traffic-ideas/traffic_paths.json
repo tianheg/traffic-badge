@@ -6,6 +6,12 @@
     "uniques": 2
   },
   {
+    "path": "/tianheg/ideas/issues/274",
+    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/Gaotianhe/ideas/issues",
     "title": "Issues · Gaotianhe/ideas",
     "count": 3,
@@ -26,12 +32,6 @@
   {
     "path": "/tianheg/ideas/issues/100",
     "title": "GitHub Actions · Issue #100 · tianheg/ideas",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/274",
-    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
     "count": 2,
     "uniques": 1
   },
