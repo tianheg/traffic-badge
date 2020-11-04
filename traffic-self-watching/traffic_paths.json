@@ -2,12 +2,18 @@
   {
     "path": "/tianheg/self-watching",
     "title": "tianheg/self-watching: Some truth about life",
-    "count": 5,
-    "uniques": 2
+    "count": 8,
+    "uniques": 3
   },
   {
-    "path": "/Gaotianhe/self-watching/blob/main/README.md",
-    "title": "self-watching/README.md at main · Gaotianhe/self-watching",
+    "path": "/tianheg/self-watching/blob/main/docs/%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%9F%E5%8F%AF%E4%BB%A5%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1-%E5%87%8F%E5%B0%91%E7%84%A6%E8%99%91%E7%9A%84%E9%87%91%E9%92%B1%E8%A7%82-%E5%AD%90%E5%A5%B3%E6%95%99%E8%82%B2-%E7%94%9F%E6%B4%",
+    "title": "self-watching/普通人也可以财务自由-减少焦虑的金钱观-子女教育-生活态度.md at main · tianheg/self-watchin...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self-watching/blob/main/docs/%E9%98%85%E8%AF%BB-30-%E5%A4%A9%E8%AE%A4%E7%9F%A5%E8%AE%AD%E7%BB%83%E8%90%A5.md",
+    "title": "self-watching/阅读-30-天认知训练营.md at main · tianheg/self-watching · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -18,20 +24,20 @@
     "uniques": 1
   },
   {
-    "path": "/Gaotianhe/self-watching",
-    "title": "Gaotianhe/self-watching: Some truth about life",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/self-watching/edit/main/README.md",
-    "title": "Editing self-watching/README.md at main · Gaotianhe/self-watching",
+    "path": "/Gaotianhe/self-watching/blob/main/README.md",
+    "title": "self-watching/README.md at main · Gaotianhe/self-watching",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/self-watching/blob/main/docs/%E4%B8%80%E6%AC%A1%E5%85%B3%E4%BA%8E%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%A7%E5%AD%A6%E6%97%B6%E8%80%83%E8%AF%81%E7%9A%84%E8%AE%A8%E8%AE%BA.md",
     "title": "self-watching/一次关于是否在大学时考证的讨论.md at main · tianheg/self-watching",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self-watching/blob/main/docs/%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%B7%A5%E4%BD%9C%E7%90%86%E8%AE%BA.md",
+    "title": "self-watching/笔记本工作理论.md at main · tianheg/self-watching · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/self-watching/new/main/docs",
     "title": "New File",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self-watching/tree/main/docs",
-    "title": "self-watching/docs at main · tianheg/self-watching",
     "count": 1,
     "uniques": 1
   }
