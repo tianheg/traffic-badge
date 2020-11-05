@@ -2,8 +2,14 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 9,
-    "uniques": 6
+    "count": 13,
+    "uniques": 9
+  },
+  {
+    "path": "/tianheg/ideas/issues/88",
+    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/115",
@@ -12,9 +18,9 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/88",
-    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
-    "count": 3,
+    "path": "/tianheg/ideas",
+    "title": "tianheg/ideas: 某些思想绽放的瞬间",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -30,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas",
-    "title": "GitHub - tianheg/ideas: 某些思想绽放的瞬间",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/ideas/issues",
     "title": "Issues · tianheg/ideas · GitHub",
     "count": 1,
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/140",
-    "title": "计算机 -《微机原理与应用》孙秀强 · Issue #140 · tianheg/ideas · GitHub",
+    "path": "/tianheg/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/249",
-    "title": "The Process of making my own cheatsheets · Issue #249 · tianheg/ideas",
+    "path": "/tianheg/ideas/issues/140",
+    "title": "计算机 -《微机原理与应用》孙秀强 · Issue #140 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
