@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 6,
-    "uniques": 4
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/tianheg/ideas/issues/115",
@@ -24,21 +24,9 @@
     "uniques": 2
   },
   {
-    "path": "/Gaotianhe/ideas/issues/232",
-    "title": "GitHub: install GitHub CLI on WSL1:Ubuntu-18.04 · Issue #232 · Gaotianhe/ideas",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/ideas/issues/100",
     "title": "GitHub Actions · Issue #100 · tianheg/ideas",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/Gaotianhe/ideas/issues/180",
-    "title": "几句有灵性的句子，小学生写的 · Issue #180 · Gaotianhe/ideas · GitHub",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -56,6 +44,18 @@
   {
     "path": "/tianheg/ideas/issues/103",
     "title": "Linkin Park: Numb · Issue #103 · tianheg/ideas · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/140",
+    "title": "计算机 -《微机原理与应用》孙秀强 · Issue #140 · tianheg/ideas · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/249",
+    "title": "The Process of making my own cheatsheets · Issue #249 · tianheg/ideas",
     "count": 1,
     "uniques": 1
   }
