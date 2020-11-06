@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/wiki-docs",
     "title": "tianheg/wiki-docs: simple wiki repo + notes: read | watch | listen https://ve...",
-    "count": 24,
+    "count": 22,
     "uniques": 2
   },
   {
@@ -15,12 +15,6 @@
     "path": "/tianheg/wiki-docs/blob/main/docs/emacs/guide-en.org",
     "title": "wiki-docs/guide-en.org at main · tianheg/wiki-docs",
     "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki-docs/wiki",
-    "title": "Home · tianheg/wiki-docs Wiki",
-    "count": 5,
     "uniques": 1
   },
   {
@@ -42,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki-docs/wiki/Home/_edit",
-    "title": "Editing Home · tianheg/wiki-docs Wiki",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/wiki-docs/blob/main/docs/emacs/mastering-emacs-in-one-year-guide.md",
     "title": "wiki-docs/mastering-emacs-in-one-year-guide.md at main · tianheg/wiki-docs",
     "count": 2,
@@ -57,6 +45,18 @@
     "path": "/tianheg/wiki-docs/blob/main/docs/linux/Linux-WSL.md",
     "title": "wiki-docs/Linux-WSL.md at main · tianheg/wiki-docs",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki-docs/tree/main/docs/network",
+    "title": "wiki-docs/docs/network at main · tianheg/wiki-docs",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki-docs/actions",
+    "title": "Actions · tianheg/wiki-docs",
+    "count": 1,
     "uniques": 1
   }
 ]

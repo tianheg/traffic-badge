@@ -6,12 +6,6 @@
     "uniques": 9
   },
   {
-    "path": "/tianheg/ideas/issues/88",
-    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/ideas/issues/115",
     "title": "一些待整理的连接和其他git操作命令以及其他的一些东西 · Issue #115 · tianheg/ideas · GitHub",
     "count": 3,
@@ -20,6 +14,12 @@
   {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/88",
+    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
     "count": 2,
     "uniques": 2
   },
