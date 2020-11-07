@@ -30,18 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yidajiabei/yidajiabei.xyz",
-    "title": "yidajiabei/yidajiabei.xyz: Blog Source Files",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yidajiabei/yidajiabei.xyz/blob/main/content/zh/link.md",
-    "title": "yidajiabei.xyz/link.md at main · yidajiabei/yidajiabei.xyz",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/yidajiabei.xyz/blob/main/archetypes/posts.md",
     "title": "yidajiabei.xyz/posts.md at main · tianheg/yidajiabei.xyz",
     "count": 2,
@@ -56,6 +44,18 @@
   {
     "path": "/tianheg/yidajiabei.xyz/issues/new",
     "title": "New Issue · tianheg/yidajiabei.xyz",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz/tree/main/content",
+    "title": "yidajiabei.xyz/content at main · tianheg/yidajiabei.xyz",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz/tree/main/content/zh",
+    "title": "yidajiabei.xyz/content/zh at main · tianheg/yidajiabei.xyz",
     "count": 2,
     "uniques": 1
   }

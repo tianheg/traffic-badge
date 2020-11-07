@@ -1,37 +1,37 @@
 [
   {
+    "path": "/tianheg/traffic-badge/pull/4",
+    "title": "Bump yi-Xu-0100/traffic-to-badge from v1.1.6 to v1.2.0 by dependabot · Pull R...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/traffic-badge",
     "title": "tianheg/traffic-badge",
-    "count": 6,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/pull/3",
+    "title": "Bump actions/checkout from v2.3.3 to v2.3.4 by dependabot · Pull Request #3 ·...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/pulls",
+    "title": "Pull requests · tianheg/traffic-badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/actions",
+    "title": "Actions · tianheg/traffic-badge",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/tianheg/traffic-badge/runs/1302451333",
     "title": "Initial commit · tianheg/traffic-badge@500f56a",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/traffic-badge/blob/main/_config.yml",
-    "title": "tianheg/traffic-badge",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/traffic-badge/blob/main/.github/workflows/traffic2badge.yml",
-    "title": "traffic-badge/traffic2badge.yml at main · tianheg/traffic-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/traffic-badge/tree/main/.github",
-    "title": "traffic-badge/.github at main · tianheg/traffic-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/traffic-badge/tree/main/.github/workflows",
-    "title": "traffic-badge/.github/workflows at main · tianheg/traffic-badge",
     "count": 1,
     "uniques": 1
   }
