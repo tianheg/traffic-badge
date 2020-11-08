@@ -6,12 +6,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/traffic-badge",
-    "title": "tianheg/traffic-badge",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/traffic-badge/pull/3",
     "title": "Bump actions/checkout from v2.3.3 to v2.3.4 by dependabot · Pull Request #3 ·...",
     "count": 2,
@@ -26,12 +20,6 @@
   {
     "path": "/tianheg/traffic-badge/actions",
     "title": "Actions · tianheg/traffic-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/traffic-badge/runs/1302451333",
-    "title": "Initial commit · tianheg/traffic-badge@500f56a",
     "count": 1,
     "uniques": 1
   }

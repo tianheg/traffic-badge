@@ -2,55 +2,31 @@
   {
     "path": "/tianheg/Changelog/blob/main/sleep.csv",
     "title": "Changelog/sleep.csv at main · tianheg/Changelog",
-    "count": 28,
+    "count": 23,
     "uniques": 1
   },
   {
     "path": "/tianheg/Changelog",
     "title": "tianheg/Changelog: Recording",
-    "count": 21,
+    "count": 14,
     "uniques": 1
   },
   {
     "path": "/tianheg/Changelog/edit/main/sleep.csv",
     "title": "Editing Changelog/sleep.csv at main · tianheg/Changelog",
-    "count": 13,
+    "count": 11,
     "uniques": 1
   },
   {
     "path": "/tianheg/Changelog/blob/main/run.csv",
     "title": "Changelog/run.csv at main · tianheg/Changelog",
-    "count": 11,
+    "count": 9,
     "uniques": 1
   },
   {
     "path": "/tianheg/Changelog/edit/main/run.csv",
     "title": "Editing Changelog/run.csv at main · tianheg/Changelog",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/Changelog/blob/main/docs/2020/10-25.md",
-    "title": "Changelog/10-25.md at main · tianheg/Changelog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/Changelog/edit/main/README.md",
-    "title": "Editing Changelog/README.md at main · tianheg/Changelog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/Changelog/new/main/docs/2020",
-    "title": "New File",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/Changelog/tree/main/docs/2020",
-    "title": "Changelog/docs/2020 at main · tianheg/Changelog",
-    "count": 1,
+    "count": 3,
     "uniques": 1
   }
 ]

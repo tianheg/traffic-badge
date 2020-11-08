@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 13,
-    "uniques": 9
+    "count": 16,
+    "uniques": 12
   },
   {
     "path": "/tianheg/ideas",
@@ -14,6 +14,18 @@
   {
     "path": "/tianheg/ideas/issues/105",
     "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/227",
+    "title": "结婚三个月，依然不懂我是为何而结婚 · Issue #227 · tianheg/ideas · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/249",
+    "title": "The Process of making my own cheatsheets · Issue #249 · tianheg/ideas",
     "count": 2,
     "uniques": 2
   },
@@ -44,18 +56,6 @@
   {
     "path": "/tianheg/ideas/issues",
     "title": "Issues · tianheg/ideas · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/103",
-    "title": "Linkin Park: Numb · Issue #103 · tianheg/ideas · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/115",
-    "title": "一些待整理的连接和其他git操作命令以及其他的一些东西 · Issue #115 · tianheg/ideas",
     "count": 1,
     "uniques": 1
   }
