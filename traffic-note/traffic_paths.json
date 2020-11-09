@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: read | watch | listen",
-    "count": 8,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -18,8 +18,20 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/note/blob/main/read/social-psychology.md",
+    "title": "note/social-psychology.md at main · tianheg/note",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/note/edit/main/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/edit/main/read/social-psychology.md",
+    "title": "Editing note/social-psychology.md at main · tianheg/note",
     "count": 3,
     "uniques": 1
   },

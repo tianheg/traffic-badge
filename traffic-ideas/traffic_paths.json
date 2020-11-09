@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 16,
-    "uniques": 12
+    "count": 17,
+    "uniques": 13
   },
   {
     "path": "/tianheg/ideas",
@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/97",
-    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/ideas/issues/100",
     "title": "GitHub Actions · Issue #100 · tianheg/ideas",
     "count": 2,
@@ -50,6 +44,12 @@
   {
     "path": "/tianheg/ideas/issues/233",
     "title": "WSL1:Ubuntu-18.04: When executing sudo apt-get upgrade after sudo apt-get upd...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/91",
+    "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
     "count": 2,
     "uniques": 1
   },

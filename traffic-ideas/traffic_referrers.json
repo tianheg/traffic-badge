@@ -1,18 +1,23 @@
 [
   {
-    "referrer": "Google",
-    "count": 12,
-    "uniques": 10
+    "referrer": "Baidu",
+    "count": 11,
+    "uniques": 8
   },
   {
-    "referrer": "Baidu",
-    "count": 9,
-    "uniques": 7
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 8
   },
   {
     "referrer": "github.com",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "cn.bing.com",
@@ -21,11 +26,6 @@
   },
   {
     "referrer": "Bing",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "DuckDuckGo",
     "count": 2,
     "uniques": 1
   }

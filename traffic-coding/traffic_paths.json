@@ -2,8 +2,14 @@
   {
     "path": "/tianheg/coding",
     "title": "tianheg/coding: My coding journal",
-    "count": 10,
+    "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/coding/blob/main/docs/great-words.md",
+    "title": "coding/great-words.md at main · tianheg/coding",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/tianheg/coding/blob/main/docs/plan.md",
@@ -12,20 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/coding/blob/main/README.md",
-    "title": "coding/README.md at main · tianheg/coding",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/coding/edit/main/docs/index.md",
-    "title": "Editing coding/index.md at main · tianheg/coding",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/coding/edit/main/README.md",
-    "title": "Editing coding/README.md at main · tianheg/coding",
+    "path": "/tianheg/coding/edit/main/docs/great-words.md",
+    "title": "Editing coding/great-words.md at main · tianheg/coding",
     "count": 1,
     "uniques": 1
   }
