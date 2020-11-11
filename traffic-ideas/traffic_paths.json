@@ -6,10 +6,16 @@
     "uniques": 13
   },
   {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas · GitHub",
+    "count": 6,
+    "uniques": 3
+  },
+  {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/tianheg/ideas/issues/105",
@@ -36,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/100",
-    "title": "GitHub Actions · Issue #100 · tianheg/ideas",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/ideas/issues/233",
     "title": "WSL1:Ubuntu-18.04: When executing sudo apt-get upgrade after sudo apt-get upd...",
     "count": 2,
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas · GitHub",
+    "path": "/tianheg/ideas/issues/103",
+    "title": "Linkin Park: Numb · Issue #103 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
