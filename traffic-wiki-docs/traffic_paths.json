@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/wiki-docs",
     "title": "tianheg/wiki-docs: simple wiki repo + notes: read | watch | listen https://ve...",
-    "count": 19,
+    "count": 15,
     "uniques": 5
   },
   {
@@ -24,26 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki-docs/blob/main/notes/docs/watch/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F2%EF%BC%9A%E6%97%A0%E7%BD%AA.md",
-    "title": "wiki-docs/攻壳机动队2：无罪.md at main · tianheg/wiki-docs",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki-docs/tree/main/docs",
-    "title": "wiki-docs/docs at main · tianheg/wiki-docs",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/wiki-docs/blob/main/docs/emacs/mastering-emacs-in-one-year-guide.md",
     "title": "wiki-docs/mastering-emacs-in-one-year-guide.md at main · tianheg/wiki-docs",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki-docs/blob/main/docs/linux/Linux-WSL.md",
-    "title": "wiki-docs/Linux-WSL.md at main · tianheg/wiki-docs",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +38,24 @@
   {
     "path": "/tianheg/wiki-docs/blob/05336e7d5fca9e572b8791df94d6c6c6a301899a/docs/emacs/guide-en.md",
     "title": "wiki-docs/guide-en.md at 05336e7d5fca9e572b8791df94d6c6c6a301899a · tianheg/w...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki-docs/blob/1dd16745d09254d40173846831183bac7750a74b/docs/win10/windows-terminal.md",
+    "title": "wiki-docs/windows-terminal.md at 1dd16745d09254d40173846831183bac7750a74b · t...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki-docs/blob/2abb50c0171ea7cabdf415402ae31f5dcb5624db/docs/network/%E6%AF%92%E8%8D%AF-%E6%9C%BA%E5%9C%BA%E5%92%8C%E4%B8%AD%E7%BB%A7%E8%8A%82%E7%82%B9.md",
+    "title": "wiki-docs/毒药-机场和中继节点.md at 2abb50c0171ea7cabdf415402ae31f5dcb5624db · tianheg...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki-docs/blob/5a056cb66b2cd7e623d5635c49aef28d36b204e9/docs/linux/kali/Kali-install-Kali-2020.2-in-VMware-Workstation-15-Pro.md",
+    "title": "wiki-docs/Kali-install-Kali-2020.2-in-VMware-Workstation-15-Pro.md at 5a056cb...",
     "count": 1,
     "uniques": 1
   }

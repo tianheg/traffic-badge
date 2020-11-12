@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 17,
-    "uniques": 13
+    "count": 15,
+    "uniques": 12
   },
   {
     "path": "/tianheg/ideas/issues",
@@ -36,6 +36,12 @@
     "uniques": 2
   },
   {
+    "path": "/tianheg/ideas/issues/66",
+    "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/idea...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/ideas/issues/88",
     "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
     "count": 2,
@@ -48,15 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/91",
-    "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
+    "path": "/tianheg/ideas/issues/255",
+    "title": "How to Install and Use Google Chrome on Linux System · Issue #255 · tianheg/i...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/103",
-    "title": "Linkin Park: Numb · Issue #103 · tianheg/ideas · GitHub",
-    "count": 1,
     "uniques": 1
   }
 ]
