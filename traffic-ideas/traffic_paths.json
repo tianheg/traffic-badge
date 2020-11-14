@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 15,
+    "count": 16,
     "uniques": 12
   },
   {
@@ -12,16 +12,16 @@
     "uniques": 3
   },
   {
+    "path": "/tianheg/ideas/issues/97",
+    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
     "count": 4,
     "uniques": 4
-  },
-  {
-    "path": "/tianheg/ideas/issues/97",
-    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 3,
-    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/105",
