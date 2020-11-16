@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 16,
-    "uniques": 12
+    "count": 14,
+    "uniques": 11
   },
   {
     "path": "/tianheg/ideas/issues/97",
@@ -13,15 +13,15 @@
   },
   {
     "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas · GitHub",
-    "count": 6,
-    "uniques": 3
+    "title": "Issues · tianheg/ideas",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/105",
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/88",
-    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/ideas/issues/233",
     "title": "WSL1:Ubuntu-18.04: When executing sudo apt-get upgrade after sudo apt-get upd...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/ideas/issues/255",
     "title": "How to Install and Use Google Chrome on Linux System · Issue #255 · tianheg/i...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/91",
+    "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
     "count": 2,
     "uniques": 1
   }
