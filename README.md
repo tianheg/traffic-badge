@@ -1080,6 +1080,36 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wiki-site/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wiki-site)
 ```
 
+### 📚 [worg](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-worg)
+
+### 📷 Badge of worg without link
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones_per_week.svg)
+```
+
+### 🔗 Badge of worg with link
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+
+```md
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-worg/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-worg)
+```
+
 ### 📚 [yidajiabei.xyz](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-yidajiabei.xyz)
 
 ### 📷 Badge of yidajiabei.xyz without link

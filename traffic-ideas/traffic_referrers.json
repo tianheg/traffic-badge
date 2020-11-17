@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 14,
-    "uniques": 13
+    "count": 19,
+    "uniques": 16
   },
   {
     "referrer": "Baidu",
-    "count": 14,
-    "uniques": 11
+    "count": 15,
+    "uniques": 12
   },
   {
     "referrer": "DuckDuckGo",
@@ -23,10 +23,5 @@
     "referrer": "github.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 1
   }
 ]
