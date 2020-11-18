@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | listen",
-    "count": 33,
+    "count": 36,
     "uniques": 3
   },
   {
@@ -12,15 +12,21 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/tree/main/watch",
-    "title": "note/watch at main · tianheg/note",
-    "count": 6,
+    "path": "/tianheg/note/blob/main/docs/read/README.md",
+    "title": "note/README.md at main · tianheg/note",
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/tianheg/note/edit/main/docs/read/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
-    "count": 5,
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/tree/main/watch",
+    "title": "note/watch at main · tianheg/note",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -36,18 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/get-way.md",
-    "title": "note/get-way.md at main · tianheg/note · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/note/blob/main/docs/read/README.md",
-    "title": "note/README.md at main · tianheg/note",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/think/README.md",
     "title": "note/README.md at main · tianheg/note",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/note/blob/main/read/%E8%A1%A8%E8%BE%BE%E7%9A%84%E7%A7%98%E8%AF%80.md",
     "title": "note/表达的秘诀.md at main · tianheg/note",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/blob/main/read/i-want-a-president.md",
+    "title": "note/i-want-a-president.md at main · tianheg/note",
     "count": 3,
     "uniques": 1
   }
