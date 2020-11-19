@@ -30,33 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/105",
-    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues/227",
-    "title": "结婚三个月，依然不懂我是为何而结婚 · Issue #227 · tianheg/ideas · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/ideas/issues/66",
     "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/idea...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/233",
-    "title": "WSL1:Ubuntu-18.04: When executing sudo apt-get upgrade after sudo apt-get upd...",
+    "path": "/tianheg/ideas/issues/255",
+    "title": "How to Install and Use Google Chrome on Linux System · Issue #255 · tianheg/i...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/255",
-    "title": "How to Install and Use Google Chrome on Linux System · Issue #255 · tianheg/i...",
-    "count": 2,
+    "path": "/tianheg/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/172",
+    "title": "读《社会心理学》 · Issue #172 · tianheg/ideas · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/227",
+    "title": "结婚三个月，依然不懂我是为何而结婚 · Issue #227 · tianheg/ideas · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
