@@ -8,8 +8,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 9,
-    "uniques": 8
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/227",
-    "title": "结婚三个月，依然不懂我是为何而结婚 · Issue #227 · tianheg/ideas · GitHub",
+    "path": "/tianheg/ideas/issues/270",
+    "title": "can't execute ./Anaconda3-2020.07-Linux-x86_64.sh in zsh · Issue #270 · tianh...",
     "count": 1,
     "uniques": 1
   }

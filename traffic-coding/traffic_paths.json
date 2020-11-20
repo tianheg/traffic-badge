@@ -1,20 +1,14 @@
 [
   {
-    "path": "/tianheg/coding",
-    "title": "tianheg/coding: My coding journal",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/coding/blob/main/docs/great-words.md",
     "title": "coding/great-words.md at main · tianheg/coding",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/coding/blob/main/docs/plan.md",
-    "title": "coding/plan.md at main · tianheg/coding",
-    "count": 2,
+    "path": "/tianheg/coding",
+    "title": "tianheg/coding: My coding journal",
+    "count": 1,
     "uniques": 1
   },
   {

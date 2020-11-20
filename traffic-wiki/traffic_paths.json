@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/wiki-docs",
     "title": "tianheg/wiki-docs: simple wiki repo",
-    "count": 10,
-    "uniques": 6
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/tianheg/wiki",
@@ -18,9 +18,27 @@
     "uniques": 2
   },
   {
+    "path": "/tianheg/wiki/actions/runs/369483888",
+    "title": "update, delete · tianheg/wiki@99bfa6c",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
+    "title": "wiki/config.js at main · tianheg/wiki",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/wiki-docs/tree/main/docs/electricity-and-magnetism",
     "title": "wiki-docs/docs/electricity-and-magnetism at main · tianheg/wiki-docs",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/blob/37942f3d340c1cc7603dc3138c0d50e34758663d/docs/emacs/guide-en.md",
+    "title": "wiki/guide-en.md at 37942f3d340c1cc7603dc3138c0d50e34758663d · tianheg/wiki ·...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -38,24 +56,6 @@
   {
     "path": "/tianheg/wiki/blob/main/docs/security/%E8%BF%91%E6%9C%9F%E5%AE%89%E5%85%A8%E5%8A%A8%E6%80%81%E5%92%8C%E7%82%B9%E8%AF%84-2020%E5%B9%B43%E5%AD%A3%E5%BA%A6.md",
     "title": "wiki/近期安全动态和点评-2020年3季度.md at main · tianheg/wiki · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/security/it-security-and-privacy-for-the-rebellions-of-the-world.md",
-    "title": "wiki/it-security-and-privacy-for-the-rebellions-of-the-world.md at main · tia...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/tech/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A-%E7%AC%AC-123-%E6%9C%9F.md",
-    "title": "wiki/科技爱好者周刊-第-123-期.md at main · tianheg/wiki · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/tech/%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A-%E7%AC%AC-124-%E6%9C%9F.md",
-    "title": "wiki/科技爱好者周刊-第-124-期.md at main · tianheg/wiki · GitHub",
     "count": 1,
     "uniques": 1
   }
