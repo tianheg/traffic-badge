@@ -1,55 +1,13 @@
 [
   {
-    "path": "/tianheg/yidajiabei.xyz/blob/main/themes/hugo-coder/layouts/partials/home.html",
-    "title": "yidajiabei.xyz/home.html at main · tianheg/yidajiabei.xyz",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz",
-    "title": "tianheg/yidajiabei.xyz: Blog Source Files",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/commit/e236ad6d522a5ab554a3ae8b0c013841b7159867",
-    "title": "Update home.html · tianheg/yidajiabei.xyz@e236ad6",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/commits/main/themes/hugo-coder/layouts/partials/home.html",
-    "title": "History for themes/hugo-coder/layouts/partials/home.html - tianheg/yidajiabei...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/edit/main/themes/hugo-coder/layouts/partials/home.html",
-    "title": "Editing yidajiabei.xyz/home.html at main · tianheg/yidajiabei.xyz",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/tree/main/themes/hugo-coder/layouts",
-    "title": "yidajiabei.xyz/themes/hugo-coder/layouts at main · tianheg/yidajiabei.xyz",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/tree/main/themes/hugo-coder/layouts/partials",
-    "title": "yidajiabei.xyz/themes/hugo-coder/layouts/partials at main · tianheg/yidajiabe...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/yidajiabei.xyz/blob/main/themes/hugo-coder/layouts/index.html",
-    "title": "yidajiabei.xyz/index.html at main · tianheg/yidajiabei.xyz",
+    "path": "/tianheg/blog.yidajiabei.xyz",
+    "title": "tianheg/blog.yidajiabei.xyz: Blog Source Files",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/yidajiabei.xyz/tree/main/themes/hugo-coder",
-    "title": "yidajiabei.xyz/themes/hugo-coder at main · tianheg/yidajiabei.xyz",
+    "path": "/tianheg/blog.yidajiabei.xyz/stargazers",
+    "title": "Stargazers · tianheg/blog.yidajiabei.xyz",
     "count": 1,
     "uniques": 1
   }

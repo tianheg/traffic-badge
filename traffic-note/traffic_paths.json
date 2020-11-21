@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | listen",
-    "count": 31,
+    "count": 29,
     "uniques": 3
   },
   {
@@ -48,15 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/read/social-psychology.md",
-    "title": "note/social-psychology.md at main · tianheg/note",
+    "path": "/tianheg/note/new/main/read",
+    "title": "New File",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/read/social-psychology.md",
-    "title": "Editing note/social-psychology.md at main · tianheg/note",
-    "count": 3,
+    "path": "/tianheg/note/actions/runs/363214755",
+    "title": "completed first step about https://note.yidajiabei.xyz · tianheg/note@6a4459e",
+    "count": 2,
     "uniques": 1
   }
 ]

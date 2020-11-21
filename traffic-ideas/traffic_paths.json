@@ -2,20 +2,20 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 10,
-    "uniques": 8
+    "count": 15,
+    "uniques": 12
   },
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 7,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
     "count": 7,
-    "uniques": 6
+    "uniques": 7
   },
   {
     "path": "/tianheg/ideas/issues",
