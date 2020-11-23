@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/tianheg/zsh-config",
+    "title": "tianheg/zsh-config: store zsh nodeys theme",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/zsh-config/issues",
+    "title": "Issues · tianheg/zsh-config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/zsh-config/issues/new",
+    "title": "New Issue · tianheg/zsh-config",
+    "count": 1,
+    "uniques": 1
+  }
+]

@@ -1,21 +1,15 @@
 [
   {
-    "path": "/tianheg/ideas/issues/97",
-    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
+    "path": "/tianheg/ideas/issues/274",
+    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
     "count": 15,
     "uniques": 12
   },
   {
-    "path": "/tianheg/ideas/issues/274",
-    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 12,
-    "uniques": 9
-  },
-  {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
-    "count": 8,
-    "uniques": 3
+    "path": "/tianheg/ideas/issues/97",
+    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
+    "count": 15,
+    "uniques": 12
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -24,10 +18,22 @@
     "uniques": 7
   },
   {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas",
+    "count": 7,
+    "uniques": 3
+  },
+  {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
-    "count": 3,
+    "count": 4,
     "uniques": 3
+  },
+  {
+    "path": "/tianheg/ideas/issues/labels",
+    "title": "Labels · tianheg/ideas",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/ideas/issues/new",
+    "title": "New Issue · tianheg/ideas",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/ideas/issues/102",
     "title": "初音未来：深海少女 好听 · Issue #102 · tianheg/ideas",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/105",
-    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/148",
-    "title": "【9.15-9.17】批判性思维4——批判性阅读的方法和实践第二部分 · Issue #148 · tianheg/ideas",
     "count": 1,
     "uniques": 1
   }
