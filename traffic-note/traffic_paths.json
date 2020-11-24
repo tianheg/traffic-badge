@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | talk | listen",
-    "count": 23,
+    "count": 20,
     "uniques": 2
   },
   {
@@ -15,12 +15,6 @@
     "path": "/tianheg/note/edit/main/docs/read/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
     "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/tree/main/watch",
-    "title": "note/watch at main · tianheg/note",
-    "count": 6,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/note/actions/runs/363214755",
     "title": "completed first step about https://note.yidajiabei.xyz · tianheg/note@6a4459e",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/commit/eaacb4b66439f4a6025698b7c713d3044a2a16aa",
+    "title": "use mkdocs-material · tianheg/note@eaacb4b",
     "count": 2,
     "uniques": 1
   }

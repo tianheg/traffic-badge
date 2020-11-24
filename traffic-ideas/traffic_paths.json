@@ -2,14 +2,26 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 15,
-    "uniques": 12
+    "count": 16,
+    "uniques": 13
   },
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 15,
+    "count": 16,
     "uniques": 12
+  },
+  {
+    "path": "/tianheg/ideas",
+    "title": "tianheg/ideas: 某些思想绽放的瞬间",
+    "count": 10,
+    "uniques": 3
+  },
+  {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas",
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -18,33 +30,9 @@
     "uniques": 7
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
-    "count": 7,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/ideas",
-    "title": "tianheg/ideas: 某些思想绽放的瞬间",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/ideas/issues/labels",
     "title": "Labels · tianheg/ideas",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/66",
-    "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/idea...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues/255",
-    "title": "How to Install and Use Google Chrome on Linux System · Issue #255 · tianheg/i...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +44,18 @@
   {
     "path": "/tianheg/ideas/issues/102",
     "title": "初音未来：深海少女 好听 · Issue #102 · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/126",
+    "title": "【9.9-9.11】批判性思维4——批判性阅读的方法和实践 · Issue #126 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
