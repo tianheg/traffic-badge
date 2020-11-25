@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | talk | listen",
-    "count": 20,
-    "uniques": 2
+    "count": 18,
+    "uniques": 1
   },
   {
     "path": "/tianheg/note/blob/main/docs/read/README.md",
@@ -54,9 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/commit/eaacb4b66439f4a6025698b7c713d3044a2a16aa",
-    "title": "use mkdocs-material · tianheg/note@eaacb4b",
-    "count": 2,
+    "path": "/tianheg/note/blob/main/docs/get-way.md",
+    "title": "note/get-way.md at main · tianheg/note",
+    "count": 1,
     "uniques": 1
   }
 ]
