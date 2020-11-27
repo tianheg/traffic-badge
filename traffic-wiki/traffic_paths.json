@@ -18,6 +18,12 @@
     "uniques": 3
   },
   {
+    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
+    "title": "wiki/config.js at main · tianheg/wiki · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/wiki/blob/main/docs/index.md",
     "title": "wiki/index.md at main · tianheg/wiki",
     "count": 3,
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/wiki/blob/main/docs/ads/getting-started.md",
     "title": "wiki/getting-started.md at main · tianheg/wiki",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
-    "title": "wiki/config.js at main · tianheg/wiki",
     "count": 2,
     "uniques": 1
   }
