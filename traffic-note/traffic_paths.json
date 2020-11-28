@@ -2,19 +2,25 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | talk | listen",
-    "count": 23,
+    "count": 27,
     "uniques": 3
   },
   {
     "path": "/tianheg/note/blob/main/docs/read/README.md",
     "title": "note/README.md at main · tianheg/note",
-    "count": 9,
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/tianheg/note/edit/main/docs/read/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
-    "count": 8,
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/projects/1",
+    "title": "Note will be",
+    "count": 5,
     "uniques": 1
   },
   {
@@ -51,12 +57,6 @@
     "path": "/tianheg/note/actions/runs/363214755",
     "title": "completed first step about https://note.yidajiabei.xyz · tianheg/note@6a4459e",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/blob/main/docs/get-way.md",
-    "title": "note/get-way.md at main · tianheg/note",
-    "count": 1,
     "uniques": 1
   }
 ]
