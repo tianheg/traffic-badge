@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/wiki/tree/main/docs/tech",
+    "title": "wiki/docs/tech at main · tianheg/wiki",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/wiki/blob/main/docs/security/nothing-can-stop-Google-DuckDuckGo-is-trying-anyway.md",
     "title": "wiki/nothing-can-stop-Google-DuckDuckGo-is-trying-anyway.md at main · tianheg...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/wiki/actions/runs/369483888",
     "title": "update, delete · tianheg/wiki@99bfa6c",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/ads/getting-started.md",
-    "title": "wiki/getting-started.md at main · tianheg/wiki",
     "count": 2,
     "uniques": 1
   }

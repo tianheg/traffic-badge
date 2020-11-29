@@ -9,7 +9,7 @@
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
     "count": 24,
-    "uniques": 18
+    "uniques": 19
   },
   {
     "path": "/tianheg/ideas/issues/274",
@@ -30,16 +30,10 @@
     "uniques": 3
   },
   {
-    "path": "/tianheg/ideas/issues/270",
-    "title": "can't execute ./Anaconda3-2020.07-Linux-x86_64.sh in zsh · Issue #270 · tianh...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/ideas/issues/new",
     "title": "New Issue · tianheg/ideas",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/115",
@@ -48,15 +42,21 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/ideas/issues/98",
+    "title": "Gitpod: fatal: unable to access 'https://github.com/Gaotianhe/cheatsheets.git...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/tianheg/ideas/issues/270",
+    "title": "can't execute ./Anaconda3-2020.07-Linux-x86_64.sh in zsh · Issue #270 · tianh...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/ideas/issues/labels",
     "title": "Labels · tianheg/ideas",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/66",
-    "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/ideas",
-    "count": 2,
-    "uniques": 2
   }
 ]
