@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | talk | listen",
-    "count": 27,
+    "count": 23,
     "uniques": 3
   },
   {
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/docs/read/README.md",
-    "title": "note/README.md at main · tianheg/note",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/edit/main/docs/.vuepress/config.js",
     "title": "Editing note/config.js at main · tianheg/note",
     "count": 5,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/note/projects/1",
     "title": "Note will be",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/tree/main/docs",
+    "title": "note/docs at main · tianheg/note",
     "count": 5,
     "uniques": 1
   }

@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 14,
+    "count": 10,
     "uniques": 4
   },
   {
     "path": "/tianheg/wiki/tree/main/docs",
     "title": "wiki/docs at main · tianheg/wiki",
-    "count": 6,
+    "count": 5,
     "uniques": 1
   },
   {
@@ -16,12 +16,6 @@
     "title": "wiki/awesome-cognitive-science.md at main · tianheg/wiki · GitHub",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
-    "title": "wiki/config.js at main · tianheg/wiki · GitHub",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/tianheg/wiki/blob/main/docs/index.md",
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki/blob/main/docs/security/nothing-can-stop-Google-DuckDuckGo-is-trying-anyway.md",
-    "title": "wiki/nothing-can-stop-Google-DuckDuckGo-is-trying-anyway.md at main · tianheg...",
+    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
+    "title": "wiki/config.js at main · tianheg/wiki · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
     "path": "/tianheg/wiki/actions/runs/369483888",
     "title": "update, delete · tianheg/wiki@99bfa6c",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/blob/main/docs/ads/getting-started.md",
+    "title": "wiki/getting-started.md at main · tianheg/wiki",
     "count": 2,
     "uniques": 1
   }

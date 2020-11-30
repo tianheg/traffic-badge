@@ -1,37 +1,13 @@
 [
   {
-    "path": "/tianheg/worg/blob/4c40faff842db861dcdc270b087ad425e5a3cb83/exporters/index.org",
-    "title": "worg/index.org at 4c40faff842db861dcdc270b087ad425e5a3cb83 · tianheg/worg",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/worg",
     "title": "tianheg/worg",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/worg/blob/4c40faff842db861dcdc270b087ad425e5a3cb83/exporters/ox-groff.org",
-    "title": "worg/ox-groff.org at 4c40faff842db861dcdc270b087ad425e5a3cb83 · tianheg/worg",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/worg/blob/4c40faff842db861dcdc270b087ad425e5a3cb83/org-configs/org-customization-survey.org",
-    "title": "worg/org-customization-survey.org at 4c40faff842db861dcdc270b087ad425e5a3cb83...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/worg/blob/4c40faff842db861dcdc270b087ad425e5a3cb83/org-tutorials/org-protocol-custom-handler.org",
     "title": "worg/org-protocol-custom-handler.org at 4c40faff842db861dcdc270b087ad425e5a3c...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/worg/issues",
-    "title": "Issues · tianheg/worg",
     "count": 1,
     "uniques": 1
   }
