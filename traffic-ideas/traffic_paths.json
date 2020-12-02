@@ -1,33 +1,33 @@
 [
   {
+    "path": "/tianheg/ideas/issues/97",
+    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
+    "count": 33,
+    "uniques": 28
+  },
+  {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: 某些思想绽放的瞬间",
     "count": 31,
     "uniques": 4
   },
   {
-    "path": "/tianheg/ideas/issues/97",
-    "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 29,
-    "uniques": 24
-  },
-  {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 21,
-    "uniques": 18
+    "count": 20,
+    "uniques": 17
+  },
+  {
+    "path": "/tianheg/ideas/issues/91",
+    "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
+    "count": 13,
+    "uniques": 12
   },
   {
     "path": "/tianheg/ideas/issues",
     "title": "Issues · tianheg/ideas",
     "count": 12,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/ideas/issues/91",
-    "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 10,
-    "uniques": 9
   },
   {
     "path": "/tianheg/ideas/issues/new",

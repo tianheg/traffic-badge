@@ -42,20 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
-    "title": "wiki/config.js at main · tianheg/wiki · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/wiki/actions/runs/369483888",
-    "title": "update, delete · tianheg/wiki@99bfa6c",
+    "path": "/tianheg/wiki/blob/main/docs/ads/getting-started.md",
+    "title": "wiki/getting-started.md at main · tianheg/wiki",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki/blob/main/docs/ads/getting-started.md",
-    "title": "wiki/getting-started.md at main · tianheg/wiki",
+    "path": "/tianheg/wiki/edit/main/docs/ads/actual-combat.md",
+    "title": "Editing wiki/actual-combat.md at main · tianheg/wiki",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/edit/main/docs/ads/getting-started.md",
+    "title": "Editing wiki/getting-started.md at main · tianheg/wiki",
     "count": 2,
     "uniques": 1
   }
