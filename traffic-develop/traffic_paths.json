@@ -1,20 +1,8 @@
 [
   {
-    "path": "/rbew/front-end-handbook/blob/main/README.md",
-    "title": "front-end-handbook/README.md at main · rbew/front-end-handbook",
-    "count": 14,
-    "uniques": 1
-  },
-  {
     "path": "/rbew/front-end-handbook",
     "title": "rbew/front-end-handbook",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/rbew/front-end-handbook/edit/main/README.md",
-    "title": "Editing front-end-handbook/README.md at main · rbew/front-end-handbook",
-    "count": 7,
+    "count": 6,
     "uniques": 1
   },
   {
@@ -24,14 +12,20 @@
     "uniques": 2
   },
   {
+    "path": "/rbew/front-end-handbook/blob/main/README.md",
+    "title": "front-end-handbook/README.md at main · rbew/front-end-handbook",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/front-end-handbook",
     "title": "tianheg/front-end-handbook",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/rbew/front-end-handbook/blob/main/index.html",
-    "title": "front-end-handbook/index.html at main · rbew/front-end-handbook · GitHub",
+    "path": "/rbew/front-end-handbook/edit/main/README.md",
+    "title": "Editing front-end-handbook/README.md at main · rbew/front-end-handbook",
     "count": 1,
     "uniques": 1
   },
