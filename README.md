@@ -900,36 +900,6 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-punctuationCheck/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-punctuationCheck)
 ```
 
-### 📚 [self-watching](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-self-watching)
-
-### 📷 Badge of self-watching without link
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views.svg)
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones_per_week.svg)
-
-```md
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views.svg)
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones_per_week.svg)
-```
-
-### 🔗 Badge of self-watching with link
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-
-```md
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-self-watching/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-self-watching)
-```
-
 ### 📚 [site](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-site)
 
 ### 📷 Badge of site without link

@@ -2,20 +2,14 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 34,
-    "uniques": 29
+    "count": 42,
+    "uniques": 36
   },
   {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: Tech Ideas of Jimgao",
-    "count": 32,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/ideas/issues/274",
-    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 15,
-    "uniques": 14
+    "count": 29,
+    "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -24,22 +18,34 @@
     "uniques": 13
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
-    "count": 9,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues/new",
-    "title": "New Issue · tianheg/ideas",
-    "count": 6,
-    "uniques": 3
+    "path": "/tianheg/ideas/issues/274",
+    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
+    "count": 12,
+    "uniques": 11
   },
   {
     "path": "/tianheg/ideas/issues/115",
     "title": "一些待整理的连接和其他git操作命令以及其他的一些东西 · Issue #115 · tianheg/ideas · GitHub",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/66",
+    "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/ideas",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/tianheg/ideas/issues/new",
+    "title": "New Issue · tianheg/ideas",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/270",
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/ideas/issues/310",
     "title": "纽扣虽小，仍能划破手指 · Issue #310 · tianheg/ideas",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/labels",
-    "title": "Labels · tianheg/ideas",
     "count": 3,
     "uniques": 1
   }

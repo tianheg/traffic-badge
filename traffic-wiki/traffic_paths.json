@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki/blob/main/docs/network/js-hook.md",
-    "title": "wiki/js-hook.md at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
     "title": "wiki/config.js at main · tianheg/wiki · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/wiki/search",
     "title": "Search · duyaoss",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/tree/main/docs/communication-principle",
+    "title": "wiki/docs/communication-principle at main · tianheg/wiki",
     "count": 1,
     "uniques": 1
   }
