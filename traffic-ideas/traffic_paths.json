@@ -2,38 +2,32 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 42,
-    "uniques": 36
+    "count": 45,
+    "uniques": 38
   },
   {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: Tech Ideas of Jimgao",
-    "count": 29,
+    "count": 23,
     "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 14,
-    "uniques": 13
+    "count": 17,
+    "uniques": 16
   },
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 12,
-    "uniques": 11
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/tianheg/ideas/issues/115",
     "title": "一些待整理的连接和其他git操作命令以及其他的一些东西 · Issue #115 · tianheg/ideas · GitHub",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -46,6 +40,12 @@
     "title": "New Issue · tianheg/ideas",
     "count": 4,
     "uniques": 3
+  },
+  {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/tianheg/ideas/issues/270",

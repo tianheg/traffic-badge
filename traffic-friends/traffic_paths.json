@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/tianheg/friends",
+    "title": "tianheg/friends",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/friends/blob/main/README.md",
+    "title": "friends/README.md at main · tianheg/friends",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/friends/edit/main/README.md",
+    "title": "Editing friends/README.md at main · tianheg/friends",
+    "count": 1,
+    "uniques": 1
+  }
+]
