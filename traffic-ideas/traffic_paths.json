@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 45,
-    "uniques": 38
+    "count": 43,
+    "uniques": 36
   },
   {
     "path": "/tianheg/ideas",
     "title": "tianheg/ideas: Tech Ideas of Jimgao",
-    "count": 23,
+    "count": 21,
     "uniques": 2
   },
   {
@@ -20,14 +20,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 11,
-    "uniques": 10
-  },
-  {
-    "path": "/tianheg/ideas/issues/115",
-    "title": "一些待整理的连接和其他git操作命令以及其他的一些东西 · Issue #115 · tianheg/ideas · GitHub",
-    "count": 5,
-    "uniques": 2
+    "count": 10,
+    "uniques": 9
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -42,21 +36,27 @@
     "uniques": 3
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/270",
-    "title": "can't execute ./Anaconda3-2020.07-Linux-x86_64.sh in zsh · Issue #270 · tianh...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/ideas/issues/310",
     "title": "纽扣虽小，仍能划破手指 · Issue #310 · tianheg/ideas",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/112",
+    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/234",
+    "title": "Gitee: generate/add SSH public key · Issue #234 · tianheg/ideas · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/98",
+    "title": "Gitpod: fatal: unable to access 'https://github.com/Gaotianhe/cheatsheets.git...",
+    "count": 2,
+    "uniques": 2
   }
 ]
