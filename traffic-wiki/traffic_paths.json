@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
@@ -20,18 +20,6 @@
   {
     "path": "/tianheg/wiki/blob/37942f3d340c1cc7603dc3138c0d50e34758663d/docs/network/%E6%AF%92%E8%8D%AF-%E6%9C%BA%E5%9C%BA%E5%92%8C%E4%B8%AD%E7%BB%A7%E8%8A%82%E7%82%B9.md",
     "title": "wiki/毒药-机场和中继节点.md at 37942f3d340c1cc7603dc3138c0d50e34758663d · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/b6c9045151c3021a477b882286b6736df8400e66/docs/linux/ecs-%E5%85%A5%E9%97%A8%E5%AE%9E%E8%B7%B5-%E5%9F%BA%E4%BA%8E-ecs-%E5%92%8C-nas-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%9B%98.md",
-    "title": "wiki/ecs-入门实践-基于-ecs-和-nas-搭建个人网盘.md at b6c9045151c3021a477b882286b6736df8400...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/.vuepress/config.js",
-    "title": "wiki/config.js at main · tianheg/wiki · GitHub",
     "count": 1,
     "uniques": 1
   },
