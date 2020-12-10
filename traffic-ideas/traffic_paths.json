@@ -2,26 +2,20 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 41,
-    "uniques": 35
-  },
-  {
-    "path": "/tianheg/ideas",
-    "title": "tianheg/ideas: Tech Ideas of Jimgao",
-    "count": 21,
-    "uniques": 2
+    "count": 40,
+    "uniques": 34
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 17,
-    "uniques": 16
+    "count": 14,
+    "uniques": 14
   },
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 6,
-    "uniques": 6
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -30,14 +24,20 @@
     "uniques": 3
   },
   {
-    "path": "/tianheg/ideas/issues/new",
-    "title": "New Issue · tianheg/ideas",
+    "path": "/tianheg/ideas",
+    "title": "tianheg/ideas: Tech Ideas of Jimgao",
     "count": 3,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/tianheg/ideas/issues/310",
     "title": "纽扣虽小，仍能划破手指 · Issue #310 · tianheg/ideas",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/88",
+    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
     "count": 3,
     "uniques": 1
   },
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/234",
-    "title": "Gitee: generate/add SSH public key · Issue #234 · tianheg/ideas · GitHub",
+    "path": "/tianheg/ideas/issues/98",
+    "title": "Gitpod: fatal: unable to access 'https://github.com/Gaotianhe/cheatsheets.git...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/98",
-    "title": "Gitpod: fatal: unable to access 'https://github.com/Gaotianhe/cheatsheets.git...",
+    "path": "/tianheg/ideas/issues/new",
+    "title": "New Issue · tianheg/ideas",
     "count": 2,
     "uniques": 2
   }

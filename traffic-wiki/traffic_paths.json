@@ -2,19 +2,7 @@
   {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs",
-    "title": "wiki/docs at main · tianheg/wiki",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs/tech",
-    "title": "wiki/docs/tech at main · tianheg/wiki",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -26,6 +14,18 @@
   {
     "path": "/tianheg/wiki/search",
     "title": "Search · duyaoss",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/tree/main/docs",
+    "title": "wiki/docs at main · tianheg/wiki",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/tree/main/docs/tech",
+    "title": "wiki/docs/tech at main · tianheg/wiki",
     "count": 1,
     "uniques": 1
   }
