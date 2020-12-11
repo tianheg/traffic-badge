@@ -2,25 +2,7 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | listen",
-    "count": 16,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/blob/main/docs/.vuepress/config.js",
-    "title": "note/config.js at main · tianheg/note",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/actions",
-    "title": "Actions · tianheg/note",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/tree/main/docs/read",
-    "title": "note/docs/read at main · tianheg/note",
-    "count": 10,
+    "count": 13,
     "uniques": 1
   },
   {
@@ -30,33 +12,51 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/docs/.vuepress/config.js",
-    "title": "Editing note/config.js at main · tianheg/note",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/blob/main/docs/read/haoel-%E8%83%BD%E5%A4%9F%E8%AF%86%E5%88%AB%E7%9A%84%E8%A1%A8%E8%B1%A1%E5%92%8C%E6%9C%AC%E8%B4%A8.md",
-    "title": "note/haoel-能够识别的表象和本质.md at main · tianheg/note",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/new/main/docs/read",
-    "title": "New File",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/note/tree-save/main/docs/.vuepress/config.js",
-    "title": "Editing note/config.js at main · tianheg/note",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/read/%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%BA%BA%E4%B8%80%E7%94%9F%E4%B8%AD%E7%9A%84%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6.md",
     "title": "note/一个女人一生中的二十四小时.md at main · tianheg/note",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/note/tree/main/docs/think/docs",
+    "title": "note/docs/think/docs at main · tianheg/note",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/tree/main/files",
+    "title": "note/files at main · tianheg/note",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/blob/main/docs/think/README.md",
+    "title": "note/README.md at main · tianheg/note",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/blob/main/docs/.vuepress/config.js",
+    "title": "note/config.js at main · tianheg/note",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/tree/main/docs/think",
+    "title": "note/docs/think at main · tianheg/note",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/actions",
+    "title": "Actions · tianheg/note",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/edit/main/docs/.vuepress/config.js",
+    "title": "Editing note/config.js at main · tianheg/note",
+    "count": 3,
+    "uniques": 1
   }
 ]

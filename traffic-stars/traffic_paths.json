@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/tianheg/stars",
+    "title": "tianheg/stars",
+    "count": 9,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/stars/actions",
+    "title": "Actions · tianheg/stars",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/branches",
+    "title": "Branches · tianheg/stars",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/main/README.md",
+    "title": "stars/README.md at main · tianheg/stars",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/tianheg/stars/edit/main/.github/workflows/ci.yml",
+    "title": "Editing stars/ci.yml at main · tianheg/stars",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/main/.github/workflows/ci.yml",
+    "title": "stars/ci.yml at main · tianheg/stars",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/master/.github/workflows/ci.yml",
+    "title": "stars/ci.yml at master · tianheg/stars",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/actions/runs/409641570",
+    "title": "test output · tianheg/stars@0e79090",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/master/.github/workflows/schedules.yml",
+    "title": "stars/schedules.yml at master · tianheg/stars",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/discussions/1",
+    "title": "Welcome to stars Discussions! · Discussion #1 · tianheg/stars",
+    "count": 1,
+    "uniques": 1
+  }
+]

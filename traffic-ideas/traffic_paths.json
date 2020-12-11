@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 40,
-    "uniques": 34
+    "count": 43,
+    "uniques": 38
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -14,8 +14,8 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/98",
-    "title": "Gitpod: fatal: unable to access 'https://github.com/Gaotianhe/cheatsheets.git...",
+    "path": "/tianheg/ideas/search",
+    "title": "Search · \"sub.ssr.sh\"",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/new",
-    "title": "New Issue · tianheg/ideas",
-    "count": 2,
-    "uniques": 2
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
   }
 ]
