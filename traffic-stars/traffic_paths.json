@@ -1,8 +1,14 @@
 [
   {
     "path": "/tianheg/stars",
-    "title": "tianheg/stars",
-    "count": 9,
+    "title": "tianheg/stars: All my stars repositories",
+    "count": 13,
+    "uniques": 4
+  },
+  {
+    "path": "/tianheg/stars/blob/main/.github/workflows/ci.yml",
+    "title": "stars/ci.yml at main · tianheg/stars",
+    "count": 5,
     "uniques": 2
   },
   {
@@ -30,10 +36,10 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/stars/blob/main/.github/workflows/ci.yml",
-    "title": "stars/ci.yml at main · tianheg/stars",
+    "path": "/tianheg/stars/tree/main/.github/workflows",
+    "title": "stars/.github/workflows at main · tianheg/stars",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/tianheg/stars/blob/master/.github/workflows/ci.yml",
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/stars/commits/main",
+    "title": "Commits · tianheg/stars",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/stars/actions/runs/409641570",
     "title": "test output · tianheg/stars@0e79090",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/stars/blob/master/.github/workflows/schedules.yml",
-    "title": "stars/schedules.yml at master · tianheg/stars",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/stars/discussions/1",
-    "title": "Welcome to stars Discussions! · Discussion #1 · tianheg/stars",
     "count": 1,
     "uniques": 1
   }
