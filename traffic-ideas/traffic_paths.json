@@ -8,8 +8,20 @@
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 14,
-    "uniques": 14
+    "count": 16,
+    "uniques": 16
+  },
+  {
+    "path": "/tianheg/ideas/search",
+    "title": "Search · \"sub.ssr.sh\"",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/tianheg/ideas/issues/112",
+    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/274",
@@ -25,15 +37,9 @@
   },
   {
     "path": "/tianheg/ideas",
-    "title": "tianheg/ideas: Tech Ideas of Jimgao",
+    "title": "tianheg/ideas: Ideas of Jimgao",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/310",
-    "title": "纽扣虽小，仍能划破手指 · Issue #310 · tianheg/ideas",
-    "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/88",
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/112",
-    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/search",
-    "title": "Search · \"sub.ssr.sh\"",
-    "count": 2,
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas · GitHub",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas",
+    "path": "/tianheg/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
     "count": 1,
     "uniques": 1
   }

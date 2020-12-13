@@ -2,13 +2,19 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | listen",
-    "count": 13,
+    "count": 9,
     "uniques": 1
   },
   {
     "path": "/tianheg/note/edit/main/docs/think/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
     "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/blob/main/docs/.vuepress/config.js",
+    "title": "note/config.js at main · tianheg/note",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -24,20 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/tree/main/files",
-    "title": "note/files at main · tianheg/note",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/think/README.md",
     "title": "note/README.md at main · tianheg/note",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/docs/.vuepress/config.js",
-    "title": "note/config.js at main · tianheg/note",
+    "path": "/tianheg/note/edit/main/docs/.vuepress/config.js",
+    "title": "Editing note/config.js at main · tianheg/note",
     "count": 4,
     "uniques": 1
   },
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/docs/.vuepress/config.js",
-    "title": "Editing note/config.js at main · tianheg/note",
+    "path": "/tianheg/note/issues/2",
+    "title": "https://www.douban.com/doubanapp/dispatch?uri=/status/3174394241/ · Issue #2 ...",
     "count": 3,
     "uniques": 1
   }

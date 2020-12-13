@@ -1,15 +1,15 @@
 [
   {
-    "path": "/tianheg/blog",
-    "title": "tianheg/blog: Blog Source Files",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/blog/discussions/6",
     "title": "how to get GitHub stars? · Discussion #6 · tianheg/blog",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog",
+    "title": "tianheg/blog: Blog Source Files",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/tianheg/blog/tree/main/content",

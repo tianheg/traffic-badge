@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/config",
     "title": "tianheg/config: config files about git, zsh, vscode, and so on",
-    "count": 6,
-    "uniques": 2
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/tianheg/config/blob/main/git/config",
