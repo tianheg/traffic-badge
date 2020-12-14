@@ -90,6 +90,36 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-blog)
 ```
 
+### 📚 [build-my-first-app](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-build-my-first-app)
+
+### 📷 Badge of build-my-first-app without link
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones_per_week.svg)
+```
+
+### 🔗 Badge of build-my-first-app with link
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+
+```md
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-build-my-first-app/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-build-my-first-app)
+```
+
 ### 📚 [Changelog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-Changelog)
 
 ### 📷 Badge of Changelog without link
