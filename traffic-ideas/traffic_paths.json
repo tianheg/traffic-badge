@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 42,
+    "count": 43,
     "uniques": 37
   },
   {
@@ -18,16 +18,10 @@
     "uniques": 3
   },
   {
-    "path": "/tianheg/ideas/issues/112",
-    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues",
-    "title": "Issues · tianheg/ideas · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/ideas/issues/105",
     "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues/112",
+    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas/issues",
+    "title": "Issues · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
