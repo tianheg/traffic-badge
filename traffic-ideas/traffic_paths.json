@@ -2,26 +2,32 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 43,
-    "uniques": 37
+    "count": 44,
+    "uniques": 38
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 14,
-    "uniques": 14
+    "count": 16,
+    "uniques": 16
   },
   {
-    "path": "/tianheg/ideas/search",
-    "title": "Search · \"sub.ssr.sh\"",
-    "count": 5,
-    "uniques": 3
+    "path": "/tianheg/ideas/issues/105",
+    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/tianheg/ideas/issues/88",
+    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/tianheg/ideas/issues/66",
@@ -30,21 +36,9 @@
     "uniques": 3
   },
   {
-    "path": "/tianheg/ideas",
-    "title": "tianheg/ideas: Ideas of Jimgao",
+    "path": "/tianheg/ideas/search",
+    "title": "Search · depression · GitHub",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues/88",
-    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/ideas/issues/105",
-    "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -52,6 +46,12 @@
     "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/ideas",
+    "title": "GitHub - tianheg/ideas: Ideas of Jimgao",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/tianheg/ideas/issues",
