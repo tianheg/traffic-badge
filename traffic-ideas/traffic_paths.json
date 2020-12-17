@@ -2,14 +2,14 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 44,
-    "uniques": 38
+    "count": 36,
+    "uniques": 31
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 16,
-    "uniques": 16
+    "count": 17,
+    "uniques": 17
   },
   {
     "path": "/tianheg/ideas/issues/105",
@@ -26,12 +26,6 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/ideas/issues/66",
-    "title": "$ vuepress dev src /bin/sh: 1: vuepress: not found · Issue #66 · tianheg/ideas",
     "count": 3,
     "uniques": 3
   },
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/ideas/issues",
     "title": "Issues · tianheg/ideas · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/188",
+    "title": "抑郁多哀语 · Issue #188 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
