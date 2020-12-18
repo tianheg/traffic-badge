@@ -8,24 +8,12 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/tianheg/blog/blob/main/content/zh/link.md",
     "title": "blog/link.md at main · tianheg/blog",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/tree/main/content",
-    "title": "blog/content at main · tianheg/blog",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/tree/main/content/zh",
-    "title": "blog/content/zh at main · tianheg/blog",
     "count": 2,
     "uniques": 1
   },
@@ -38,6 +26,18 @@
   {
     "path": "/tianheg/blog/edit/main/content/zh/link.md",
     "title": "Editing blog/link.md at main · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/tree/main/content",
+    "title": "blog/content at main · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/tree/main/content/zh",
+    "title": "blog/content/zh at main · tianheg/blog",
     "count": 1,
     "uniques": 1
   }

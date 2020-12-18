@@ -2,19 +2,25 @@
   {
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
-    "count": 36,
-    "uniques": 31
+    "count": 37,
+    "uniques": 34
   },
   {
     "path": "/tianheg/ideas/issues/91",
     "title": "Vim: E45: ‘readonly’ option is set (add ! to override) · Issue #91 · tianheg/...",
-    "count": 17,
-    "uniques": 17
+    "count": 15,
+    "uniques": 15
   },
   {
     "path": "/tianheg/ideas/issues/105",
     "title": "Gitpod: Using Hugo on Gitpod · Issue #105 · tianheg/ideas",
     "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/tianheg/ideas/issues/274",
+    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
+    "count": 4,
     "uniques": 4
   },
   {
@@ -24,21 +30,9 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/ideas/issues/274",
-    "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/ideas/search",
     "title": "Search · depression · GitHub",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/ideas/issues/112",
-    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/ideas/issues/188",
-    "title": "抑郁多哀语 · Issue #188 · tianheg/ideas · GitHub",
+    "path": "/tianheg/ideas/issues/100",
+    "title": "GitHub Actions · Issue #100 · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/112",
+    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
