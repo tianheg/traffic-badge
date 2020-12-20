@@ -36,6 +36,18 @@
     "uniques": 2
   },
   {
+    "path": "/tianheg/wiki/blob/main/docs/others/life/job/index.md",
+    "title": "wiki/index.md at main · tianheg/wiki",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/edit/main/docs/others/life/job/index.md",
+    "title": "Editing wiki/index.md at main · tianheg/wiki",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/Wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/tianheg/wiki/blob/2df0455cb30df5f4361e72797184b52516d37fb4/docs/others/tool/emacs/guide-en.md",
     "title": "wiki/guide-en.md at 2df0455cb30df5f4361e72797184b52516d37fb4 · tianheg/wiki ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/37942f3d340c1cc7603dc3138c0d50e34758663d/docs/network/configure-the-router.md",
-    "title": "wiki/configure-the-router.md at 37942f3d340c1cc7603dc3138c0d50e34758663d · ti...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/others/sci-tech/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%8E%86%E5%8F%B2.md",
-    "title": "wiki/黑苹果的历史.md at main · tianheg/wiki · GitHub",
     "count": 1,
     "uniques": 1
   }

@@ -6,6 +6,12 @@
     "uniques": 2
   },
   {
+    "path": "/tianheg/RSS-reader/issues/1",
+    "title": "log · Issue #1 · tianheg/RSS-reader · GitHub",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/tianheg/RSS-reader/blob/main/docs/getting-started.md",
     "title": "RSS-reader/getting-started.md at main · tianheg/RSS-reader",
     "count": 3,
@@ -20,12 +26,6 @@
   {
     "path": "/tianheg/build-my-first-app",
     "title": "GitHub - tianheg/build-my-first-app: WIP Create a RSS reading android app",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/RSS-reader/issues/1",
-    "title": "log · Issue #1 · tianheg/RSS-reader · GitHub",
     "count": 1,
     "uniques": 1
   },
