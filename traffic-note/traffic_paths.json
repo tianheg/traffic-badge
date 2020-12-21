@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/actions/runs/405502067",
-    "title": "update(自学是门手艺) · tianheg/note@5d1283a",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/listen/theory.md",
     "title": "note/theory.md at main · tianheg/note",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/note/blob/main/docs/read/%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%BA%BA%E4%B8%80%E7%94%9F%E4%B8%AD%E7%9A%84%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6.md",
     "title": "note/一个女人一生中的二十四小时.md at main · tianheg/note",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/blob/main/docs/read/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA.md",
+    "title": "note/自学是门手艺.md at main · tianheg/note",
     "count": 1,
     "uniques": 1
   }
