@@ -6,21 +6,21 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/wiki",
+    "title": "tianheg/wiki: Wiki based on vuepress",
+    "count": 7,
+    "uniques": 3
+  },
+  {
     "path": "/tianheg/wiki/edit/main/README.md",
     "title": "Editing wiki/README.md at main · tianheg/wiki",
     "count": 7,
     "uniques": 1
   },
   {
-    "path": "/tianheg/wiki",
-    "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/tianheg/wiki/tree/main/docs",
     "title": "wiki/docs at main · tianheg/wiki",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {

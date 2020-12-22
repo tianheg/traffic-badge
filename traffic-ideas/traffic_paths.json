@@ -3,7 +3,7 @@
     "path": "/tianheg/ideas/issues/97",
     "title": "CentOS: 'Failed to set locale, defaulting to C' when using 'yum' · Issue #97 ...",
     "count": 38,
-    "uniques": 35
+    "uniques": 34
   },
   {
     "path": "/tianheg/ideas/issues/91",
@@ -20,20 +20,14 @@
   {
     "path": "/tianheg/ideas/issues/274",
     "title": "System has not been booted with systemd as init system (PID 1). Can't operate...",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/tianheg/ideas/search",
     "title": "Search · losadhwselfff2332dasd.xyz · GitHub",
     "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/ideas/issues/88",
-    "title": "CentOS: install CentOS7 on VirtualBox(6.1.12) · Issue #88 · tianheg/ideas · G...",
-    "count": 4,
-    "uniques": 2
   },
   {
     "path": "/tianheg/ideas/issues/115",
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/ideas/issues/100",
     "title": "GitHub Actions · Issue #100 · tianheg/ideas",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/ideas/issues/112",
+    "title": "阅读《30天认知训练营》 · Issue #112 · tianheg/ideas · GitHub",
     "count": 1,
     "uniques": 1
   }
