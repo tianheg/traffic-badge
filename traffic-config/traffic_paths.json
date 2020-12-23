@@ -1,38 +1,8 @@
 [
   {
-    "path": "/tianheg/config",
-    "title": "tianheg/config: config files about git, zsh, vscode, and so on",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/config/blob/main/shell/nodeys.zsh-theme",
     "title": "config/nodeys.zsh-theme at main · tianheg/config · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/config/blob/main/git/config",
-    "title": "config/config at main · tianheg/config",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/tree/main/chrome",
-    "title": "config/chrome at main · tianheg/config",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/tree/main/git",
-    "title": "config/git at main · tianheg/config",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/tree/main/vscode",
-    "title": "config/vscode at main · tianheg/config",
-    "count": 1,
-    "uniques": 1
+    "count": 3,
+    "uniques": 3
   }
 ]

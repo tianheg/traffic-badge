@@ -2,49 +2,13 @@
   {
     "path": "/tianheg/stars",
     "title": "tianheg/stars: All my stars repositories",
-    "count": 13,
-    "uniques": 4
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/tianheg/stars/blob/main/.github/workflows/ci.yml",
     "title": "stars/ci.yml at main · tianheg/stars",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/stars/actions",
-    "title": "Actions · tianheg/stars",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/stars/branches",
-    "title": "Branches · tianheg/stars",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/stars/blob/main/README.md",
-    "title": "stars/README.md at main · tianheg/stars",
     "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/stars/edit/main/.github/workflows/ci.yml",
-    "title": "Editing stars/ci.yml at main · tianheg/stars",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/stars/tree/main/.github/workflows",
-    "title": "stars/.github/workflows at main · tianheg/stars",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/stars/blob/master/.github/workflows/ci.yml",
-    "title": "stars/ci.yml at master · tianheg/stars",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -54,8 +18,20 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/stars/actions/runs/409641570",
-    "title": "test output · tianheg/stars@0e79090",
+    "path": "/tianheg/stars/commit/06bfd45127abd96fce0a0b2d159c98fd5e2e926b",
+    "title": "update at 08:00 CST – China Standard Time · tianheg/stars@06bfd45",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/commits/main/.github/workflows/ci.yml",
+    "title": "History for .github/workflows/ci.yml - tianheg/stars",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/tree/main/.github/workflows",
+    "title": "stars/.github/workflows at main · tianheg/stars",
     "count": 1,
     "uniques": 1
   }
