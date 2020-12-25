@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/note",
     "title": "tianheg/note: think | read | watch | listen",
-    "count": 6,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/tianheg/note/blob/main/README.md",
     "title": "note/README.md at main · tianheg/note",
-    "count": 5,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -30,32 +30,32 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/docs/.vuepress/config.js",
-    "title": "note/config.js at main · tianheg/note",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/watch/README.md",
     "title": "note/README.md at main · tianheg/note",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/docs/read/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA.md",
-    "title": "Editing note/自学是门手艺.md at main · tianheg/note",
-    "count": 2,
+    "path": "/tianheg/note/edit/main/docs/listen/theory.md",
+    "title": "Editing note/theory.md at main · tianheg/note",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/README.md",
+    "path": "/tianheg/note/edit/main/docs/read/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/docs/read/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA.md",
-    "title": "note/自学是门手艺.md at main · tianheg/note",
+    "path": "/tianheg/note/edit/main/docs/think/README.md",
+    "title": "Editing note/README.md at main · tianheg/note",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/note/edit/main/docs/watch/README.md",
+    "title": "Editing note/README.md at main · tianheg/note",
     "count": 1,
     "uniques": 1
   }
