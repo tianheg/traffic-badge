@@ -360,6 +360,36 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-logo-design/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-logo-design)
 ```
 
+### 📚 [mirror](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-mirror)
+
+### 📷 Badge of mirror without link
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones_per_week.svg)
+```
+
+### 🔗 Badge of mirror with link
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+
+```md
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-mirror/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-mirror)
+```
+
 ### 📚 [Motivational-Quotes](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-Motivational-Quotes)
 
 ### 📷 Badge of Motivational-Quotes without link
