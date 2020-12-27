@@ -1,26 +1,20 @@
 [
   {
-    "path": "/tianheg/wiki/blob/main/README.md",
-    "title": "wiki/README.md at main · tianheg/wiki",
-    "count": 15,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
     "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/wiki/edit/main/README.md",
-    "title": "Editing wiki/README.md at main · tianheg/wiki",
-    "count": 7,
-    "uniques": 1
+    "uniques": 3
   },
   {
     "path": "/tianheg/wiki/blob/main/docs/others/life/job/index.md",
     "title": "wiki/index.md at main · tianheg/wiki",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/blob/main/README.md",
+    "title": "wiki/README.md at main · tianheg/wiki",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/wiki/blob/main/docs/others/sci-tech/posts/%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%8E%86%E5%8F%B2.md",
     "title": "wiki/黑苹果的历史.md at main · tianheg/wiki · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/blob/main/docs/others/security/it-security-and-privacy-for-the-rebellions-of-the-world.md",
+    "title": "wiki/it-security-and-privacy-for-the-rebellions-of-the-world.md at main · tia...",
     "count": 1,
     "uniques": 1
   }
