@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/blob/main/docs/read/README.md",
-    "title": "note/README.md at main · tianheg/note",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/note/blob/main/docs/think/README.md",
     "title": "note/README.md at main · tianheg/note",
     "count": 2,
@@ -42,19 +36,25 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/note/blob/main/docs/read/README.md",
+    "title": "note/README.md at main · tianheg/note",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/note/edit/main/docs/listen/theory.md",
     "title": "Editing note/theory.md at main · tianheg/note",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/docs/read/README.md",
+    "path": "/tianheg/note/edit/main/docs/think/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/note/edit/main/docs/think/README.md",
+    "path": "/tianheg/note/edit/main/docs/watch/README.md",
     "title": "Editing note/README.md at main · tianheg/note",
     "count": 1,
     "uniques": 1
