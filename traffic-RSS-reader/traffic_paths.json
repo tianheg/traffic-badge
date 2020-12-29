@@ -2,36 +2,24 @@
   {
     "path": "/tianheg/RSS-reader",
     "title": "tianheg/RSS-reader: WIP Create a android RSS reader",
-    "count": 15,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/tianheg/RSS-reader/issues/1",
     "title": "log · Issue #1 · tianheg/RSS-reader · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/tianheg/RSS-reader/blob/main/docs/getting-started.md",
-    "title": "RSS-reader/getting-started.md at main · tianheg/RSS-reader",
-    "count": 3,
+    "path": "/tianheg/RSS-reader/blob/main/README.md",
+    "title": "RSS-reader/README.md at main · tianheg/RSS-reader · GitHub",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/RSS-reader/tree/main/docs",
     "title": "RSS-reader/docs at main · tianheg/RSS-reader · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/RSS-reader/edit/main/docs/getting-started.md",
-    "title": "Editing RSS-reader/getting-started.md at main · tianheg/RSS-reader",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/RSS-reader/blob/main/README.md",
-    "title": "RSS-reader/README.md at main · tianheg/RSS-reader · GitHub",
     "count": 1,
     "uniques": 1
   }
