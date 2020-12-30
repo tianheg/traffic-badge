@@ -1,15 +1,15 @@
 [
   {
+    "path": "/tianheg/hackernews-daily",
+    "title": "tianheg/hackernews-daily",
+    "count": 5,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/hackernews-daily/actions",
     "title": "Actions · tianheg/hackernews-daily",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/hackernews-daily",
-    "title": "tianheg/hackernews-daily",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/tianheg/hackernews-daily/tree/main/utils",
