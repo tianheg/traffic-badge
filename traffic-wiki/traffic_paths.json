@@ -8,12 +8,6 @@
   {
     "path": "/tianheg/wiki/blob/main/docs/others/life/job/index.md",
     "title": "wiki/index.md at main · tianheg/wiki",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/edit/main/docs/others/life/job/index.md",
-    "title": "Editing wiki/index.md at main · tianheg/wiki",
     "count": 3,
     "uniques": 1
   },
@@ -21,6 +15,12 @@
     "path": "/tianheg/wiki/tree/main/docs",
     "title": "wiki/docs at main · tianheg/wiki",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/edit/main/docs/others/life/job/index.md",
+    "title": "Editing wiki/index.md at main · tianheg/wiki",
+    "count": 1,
     "uniques": 1
   },
   {
