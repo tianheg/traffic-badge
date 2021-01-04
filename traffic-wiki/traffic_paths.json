@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/tianheg/wiki/blob/main/docs/others/life/job/index.md",
@@ -38,6 +38,12 @@
   {
     "path": "/tianheg/wiki/tree/main/docs/others/life/job",
     "title": "wiki/docs/others/life/job at main · tianheg/wiki",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wiki/wiki/Sites",
+    "title": "Sites · tianheg/wiki Wiki",
     "count": 1,
     "uniques": 1
   }

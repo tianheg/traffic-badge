@@ -2,54 +2,6 @@
   {
     "path": "/tianheg/hackernews-daily",
     "title": "tianheg/hackernews-daily",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/hackernews-daily/actions",
-    "title": "Actions · tianheg/hackernews-daily",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/hackernews-daily/tree/main/utils",
-    "title": "hackernews-daily/utils at main · tianheg/hackernews-daily",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/blob/main/.github/workflows/main.yml",
-    "title": "hackernews-daily/main.yml at main · tianheg/hackernews-daily",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/tree/main/.github/workflows",
-    "title": "hackernews-daily/.github/workflows at main · tianheg/hackernews-daily",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/actions/runs/435733220",
-    "title": "Update README.md · tianheg/hackernews-daily@21e44b0",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/blob/main/index.js",
-    "title": "hackernews-daily/index.js at main · tianheg/hackernews-daily",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/blob/main/utils/getHeadlines.js",
-    "title": "hackernews-daily/getHeadlines.js at main · tianheg/hackernews-daily",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/hackernews-daily/blob/main/utils/issue.js",
-    "title": "hackernews-daily/issue.js at main · tianheg/hackernews-daily",
     "count": 1,
     "uniques": 1
   }
