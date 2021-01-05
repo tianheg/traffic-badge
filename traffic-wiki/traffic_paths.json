@@ -2,44 +2,8 @@
   {
     "path": "/tianheg/wiki",
     "title": "tianheg/wiki: Wiki based on vuepress",
-    "count": 3,
+    "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/wiki/blob/main/docs/others/life/job/index.md",
-    "title": "wiki/index.md at main · tianheg/wiki",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/edit/main/docs/others/life/job/index.md",
-    "title": "Editing wiki/index.md at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs",
-    "title": "wiki/docs at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs/others",
-    "title": "wiki/docs/others at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs/others/life",
-    "title": "wiki/docs/others/life at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/wiki/tree/main/docs/others/life/job",
-    "title": "wiki/docs/others/life/job at main · tianheg/wiki",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/tianheg/wiki/wiki/Sites",
