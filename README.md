@@ -270,6 +270,36 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-emacs.d/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-emacs.d)
 ```
 
+### 📚 [gatsby-blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-gatsby-blog)
+
+### 📷 Badge of gatsby-blog without link
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones_per_week.svg)
+```
+
+### 🔗 Badge of gatsby-blog with link
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+
+```md
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-gatsby-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-gatsby-blog)
+```
+
 ### 📚 [hackernews-daily](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily)
 
 ### 📷 Badge of hackernews-daily without link
