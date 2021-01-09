@@ -6,16 +6,16 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/review",
+    "title": "tianheg/review: Study, Think, Act",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/tianheg/review/blob/main/docs/sleep.md",
     "title": "review/sleep.md at main · tianheg/review",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/tianheg/review",
-    "title": "tianheg/review: Study, Think, Act",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/tianheg/review/blob/main/docs/daily/2021/01-06.md",
