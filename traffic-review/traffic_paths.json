@@ -24,26 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/review/blob/main/docs/.vuepress/config.js",
-    "title": "review/config.js at main · tianheg/review",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/review/commit/5dd922cec2a5ac8f1b4d2eba32f4208c56d6673a",
     "title": "Update 2020.md · tianheg/review@5dd922c",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/review/tree/main/docs",
-    "title": "review/docs at main · tianheg/review",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/review/tree/main/docs/daily/12",
-    "title": "review/docs/daily/12 at main · tianheg/review",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +38,24 @@
   {
     "path": "/tianheg/review/edit/main/docs/daily/2021/01-06.md",
     "title": "Editing review/01-06.md at main · tianheg/review",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/review/edit/main/docs/index.md",
+    "title": "Editing review/index.md at main · tianheg/review",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/review/edit/main/docs/sleep.md",
+    "title": "Editing review/sleep.md at main · tianheg/review",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/review/tree/main/docs",
+    "title": "review/docs at main · tianheg/review",
     "count": 1,
     "uniques": 1
   }
