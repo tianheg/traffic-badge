@@ -2,14 +2,8 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 5,
+    "count": 4,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/blog/blob/main/config.toml",
-    "title": "blog/config.toml at main · tianheg/blog",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/tianheg/blog/commit/c5dba8a122028aed395ac0c0455ae183b647744b",
@@ -20,6 +14,12 @@
   {
     "path": "/tianheg/blog/issues/47",
     "title": "Computer Science · Issue #47 · tianheg/blog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/48",
+    "title": "2021-01-14 · Issue #48 · tianheg/blog",
     "count": 2,
     "uniques": 1
   },
@@ -42,20 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/edit/main/config.toml",
-    "title": "Editing blog/config.toml at main · tianheg/blog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues/48",
-    "title": "2021-01-14 · Issue #48 · tianheg/blog",
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
     "count": 1,
     "uniques": 1
   }
