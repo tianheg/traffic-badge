@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/tianheg/blog/issues/47",
@@ -38,6 +38,12 @@
   {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/39",
+    "title": "maybe create a utterances · Issue #39 · tianheg/blog",
     "count": 1,
     "uniques": 1
   },
