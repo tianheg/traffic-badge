@@ -1,14 +1,14 @@
 [
   {
-    "path": "/tianheg/review",
-    "title": "tianheg/review: review",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/review/blob/main/sleep.md",
     "title": "review/sleep.md at main · tianheg/review",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/review",
+    "title": "tianheg/review: review",
+    "count": 1,
     "uniques": 1
   },
   {
