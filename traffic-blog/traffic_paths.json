@@ -2,8 +2,14 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 3,
+    "count": 5,
     "uniques": 3
+  },
+  {
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues/33",
@@ -20,6 +26,12 @@
   {
     "path": "/tianheg/blog/issues/48",
     "title": "2021-01-14 · Issue #48 · tianheg/blog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/65",
+    "title": "分类与标签相辅相成 · Issue #65 · tianheg/blog",
     "count": 2,
     "uniques": 1
   },
@@ -44,12 +56,6 @@
   {
     "path": "/tianheg/blog/issues/39",
     "title": "maybe create a utterances · Issue #39 · tianheg/blog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be",
     "count": 1,
     "uniques": 1
   }
