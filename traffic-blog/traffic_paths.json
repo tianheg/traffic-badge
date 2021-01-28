@@ -12,16 +12,16 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/blog/issues",
+    "title": "Issues · tianheg/blog",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/blog/issues/39",
     "title": "maybe create a utterances · Issue #39 · tianheg/blog",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/blog/issues",
-    "title": "Issues · tianheg/blog",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues/31",
@@ -42,20 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues/47",
-    "title": "Computer Science · Issue #47 · tianheg/blog",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/48",
-    "title": "2021-01-14 · Issue #48 · tianheg/blog",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog/issues/65",
     "title": "分类与标签相辅相成 · Issue #65 · tianheg/blog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/71",
+    "title": "走神 脱离理性 · Issue #71 · tianheg/blog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/new",
+    "title": "New Issue · tianheg/blog",
     "count": 2,
     "uniques": 1
   }
