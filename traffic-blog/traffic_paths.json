@@ -1,5 +1,11 @@
 [
   {
+    "path": "/tianheg/blog/issues",
+    "title": "Issues · tianheg/blog",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
     "count": 7,
@@ -8,13 +14,25 @@
   {
     "path": "/tianheg/blog/projects/1",
     "title": "My blog will be",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/65",
+    "title": "分类与标签相辅相成 · Issue #65 · tianheg/blog",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues",
-    "title": "Issues · tianheg/blog",
+    "path": "/tianheg/blog/issues/new",
+    "title": "New Issue · tianheg/blog",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/projects",
+    "title": "Projects · tianheg/blog",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -38,24 +56,6 @@
   {
     "path": "/tianheg/blog/issues/40",
     "title": "use utterances: change its theme when blog theme change · Issue #40 · tianheg...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/65",
-    "title": "分类与标签相辅相成 · Issue #65 · tianheg/blog",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/71",
-    "title": "走神 脱离理性 · Issue #71 · tianheg/blog",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/new",
-    "title": "New Issue · tianheg/blog",
     "count": 2,
     "uniques": 1
   }
