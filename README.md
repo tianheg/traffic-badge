@@ -690,36 +690,6 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSS-reader/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSS-reader)
 ```
 
-### 📚 [RSSHub](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-RSSHub)
-
-### 📷 Badge of RSSHub without link
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views.svg)
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones_per_week.svg)
-
-```md
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views.svg)
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones_per_week.svg)
-```
-
-### 🔗 Badge of RSSHub with link
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-
-```md
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-RSSHub/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-RSSHub)
-```
-
 ### 📚 [simply-jekyll](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-simply-jekyll)
 
 ### 📷 Badge of simply-jekyll without link
