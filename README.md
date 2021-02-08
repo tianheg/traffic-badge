@@ -1,7 +1,5 @@
 ## ⚡️ traffic2badge
 
-
-[![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
 [![GitHub last commit](https://img.shields.io/github/last-commit/yi-Xu-0100/traffic2badge)](./)
 [![LICENSE](https://img.shields.io/github/license/yi-Xu-0100/traffic2badge)](./LICENSE)
