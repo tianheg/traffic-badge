@@ -6,21 +6,9 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues",
-    "title": "Issues · tianheg/blog",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/new",
-    "title": "New Issue · tianheg/blog",
-    "count": 9,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 8,
+    "count": 7,
     "uniques": 2
   },
   {
@@ -28,6 +16,18 @@
     "title": "blog/content/posts at main · tianheg/blog · GitHub",
     "count": 7,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/blog/issues",
+    "title": "Issues · tianheg/blog",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/new",
+    "title": "New Issue · tianheg/blog",
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/blob/main/content/posts/question-2021-5.md",
@@ -42,14 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be",
-    "count": 5,
+    "path": "/tianheg/blog/blob/main/content/posts/watch-di.md",
+    "title": "blog/watch-di.md at main · tianheg/blog",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/blob/main/content/posts/watch-di.md",
-    "title": "blog/watch-di.md at main · tianheg/blog",
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
     "count": 4,
     "uniques": 1
   },
