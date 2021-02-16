@@ -154,34 +154,34 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-craft-of-selfteaching/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-craft-of-selfteaching)
 ```
 
-## 📚 [css-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-collection)
+## 📚 [css-js-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-js-collection)
 
-### 📷 Badges without link of [css-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-collection)
+### 📷 Badges without link of [css-js-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-js-collection)
 
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones_per_week.svg)
 
 ```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones_per_week.svg)
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones_per_week.svg)
 ```
 
-### 🔗 Badges with link of [css-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-collection)
+### 🔗 Badges with link of [css-js-collection](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-css-js-collection)
 
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
 
 ```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-collection)
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-css-js-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-css-js-collection)
 ```
 
 ## 📚 [data-structure-visualization](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-data-structure-visualization)
