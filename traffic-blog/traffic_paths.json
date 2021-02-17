@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues/31",
-    "title": "知识体系 · Issue #31 · tianheg/blog",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog/blob/main/content/posts/question-2021-5.md",
     "title": "blog/question-2021-5.md at main · tianheg/blog",
     "count": 5,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/blog/blob/main/content/posts/%E8%AF%BB%E3%80%8A%E4%B8%80%E4%B9%9D%E5%85%AB%E5%9B%9B%E3%80%8B.md",
     "title": "blog/读《一九八四》.md at main · tianheg/blog",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/blob/main/content/posts/question-2021-4.md",
+    "title": "blog/question-2021-4.md at main · tianheg/blog",
     "count": 3,
     "uniques": 1
   }
