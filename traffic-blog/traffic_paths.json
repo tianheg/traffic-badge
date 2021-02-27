@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/blog/issues/20",
+    "title": "前端面试 · Issue #20 · tianheg/blog · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/blog/blob/734b102bb69bb8d77fbb8c8f69ca3fff2a5ca999/content/posts/words-from-tombkeeper.md",
     "title": "blog/words-from-tombkeeper.md at 734b102bb69bb8d77fbb8c8f69ca3fff2a5ca999 · t...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/blog/commit/977bc923bb61271d81dd4ebcabe2dd05679f777b",
     "title": "[content/posts/tombkeeper-de-words.md] update · tianheg/blog@977bc92",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/graphs/code-frequency",
-    "title": "Code frequency · tianheg/blog",
     "count": 1,
     "uniques": 1
   }
