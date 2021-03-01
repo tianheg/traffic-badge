@@ -424,36 +424,6 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-good/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-good)
 ```
 
-## 📚 [hackernews-daily](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily)
-
-### 📷 Badges without link of [hackernews-daily](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily)
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [hackernews-daily](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily)
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-
-```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-hackernews-daily/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-hackernews-daily)
-```
-
 ## 📚 [hackernews-daily-bot](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily-bot)
 
 ### 📷 Badges without link of [hackernews-daily-bot](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-hackernews-daily-bot)
