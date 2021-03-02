@@ -64,6 +64,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-algorithm/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-algorithm)
 ```
 
+## 📚 [bing-wallpaper](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-bing-wallpaper)
+
+### 📷 Badges without link of [bing-wallpaper](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-bing-wallpaper)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [bing-wallpaper](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-bing-wallpaper)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-bing-wallpaper/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-bing-wallpaper)
+```
+
 ## 📚 [blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-blog)
 
 ### 📷 Badges without link of [blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-blog)
