@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/tianheg/config/tree/main/shell",
+    "title": "config/shell at main · tianheg/config",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config",
+    "title": "tianheg/config: config files about git, zsh, vscode, and so on",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/nodeys.zsh-theme",
+    "title": "config/nodeys.zsh-theme at main · tianheg/config",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/zshrc",
+    "title": "config/zshrc at main · tianheg/config",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/README.md",
+    "title": "config/README.md at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/bashrc",
+    "title": "config/bashrc at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/install-nodeys-zsh-theme.md",
+    "title": "config/install-nodeys-zsh-theme.md at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/screenshot.png",
+    "title": "config/screenshot.png at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/zshrc_ubuntu",
+    "title": "config/zshrc_ubuntu at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/edit/main/README.md",
+    "title": "Editing config/README.md at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  }
+]
