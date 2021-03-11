@@ -2,18 +2,48 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 8,
+    "count": 11,
     "uniques": 1
   },
   {
     "path": "/tianheg/til/commits/main",
     "title": "Commits · tianheg/til",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/til/tree/main/chrome",
     "title": "til/chrome at main · tianheg/til",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/blob/main/chrome/hard-refresh.md",
+    "title": "til/hard-refresh.md at main · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/graphs/traffic",
+    "title": "Traffic · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/projects",
+    "title": "Projects · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/projects/1",
+    "title": "til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/pulse",
+    "title": "Pulse · tianheg/til",
     "count": 1,
     "uniques": 1
   }

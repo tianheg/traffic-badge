@@ -6,12 +6,6 @@
     "uniques": 2
   },
   {
-    "path": "/tianheg/blog/issues/20",
-    "title": "前端面试 · Issue #20 · tianheg/blog · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog/blob/main/content/link.md",
     "title": "blog/link.md at main · tianheg/blog",
     "count": 2,
@@ -32,6 +26,12 @@
   {
     "path": "/tianheg/blog/edit/main/content/link.md",
     "title": "Editing blog/link.md at main · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/20",
+    "title": "前端面试 · Issue #20 · tianheg/blog · GitHub",
     "count": 1,
     "uniques": 1
   },
