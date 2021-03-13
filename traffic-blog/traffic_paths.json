@@ -2,19 +2,13 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 20,
+    "count": 22,
     "uniques": 2
   },
   {
     "path": "/tianheg/blog/blob/main/content/link.md",
     "title": "blog/link.md at main · tianheg/blog",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/commit/af32bbe17aa043c86f5b6c6030083d86dd530d83",
-    "title": "[postcss.config.js] add · tianheg/blog@af32bbe",
-    "count": 1,
     "uniques": 1
   },
   {
