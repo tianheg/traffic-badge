@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/bing-wallpaper",
     "title": "tianheg/bing-wallpaper: https://github.com/niumoo/bing-wallpaper",
-    "count": 9,
-    "uniques": 4
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/tianheg/bing-wallpaper/actions/workflows/maven.yml",
@@ -44,12 +44,6 @@
   {
     "path": "/tianheg/bing-wallpaper/commit/f760cf0610941abf13e4b6139bcbdb16f7452035",
     "title": "Rename src/FileUtils.java to src/main/java/com/wdbyte/bing/FileUtils.… · tian...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/commits/main",
-    "title": "Commits · tianheg/bing-wallpaper",
     "count": 1,
     "uniques": 1
   },
