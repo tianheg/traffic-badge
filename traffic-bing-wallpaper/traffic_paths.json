@@ -2,55 +2,7 @@
   {
     "path": "/tianheg/bing-wallpaper",
     "title": "tianheg/bing-wallpaper: https://github.com/niumoo/bing-wallpaper",
-    "count": 8,
+    "count": 5,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/actions/workflows/maven.yml",
-    "title": "Actions · tianheg/bing-wallpaper",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/edit/main/.github/workflows/maven.yml",
-    "title": "Editing bing-wallpaper/maven.yml at main · tianheg/bing-wallpaper",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/actions",
-    "title": "Actions · tianheg/bing-wallpaper",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/actions/runs/612767495",
-    "title": "Rename main.yml to maven.yml · tianheg/bing-wallpaper@ba91326",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/blob/f760cf0610941abf13e4b6139bcbdb16f7452035/src/main/java/com/wdbyte/bing/FileUtils.java",
-    "title": "bing-wallpaper/FileUtils.java at f760cf0610941abf13e4b6139bcbdb16f7452035 · t...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/blob/main/.github/workflows/maven.yml",
-    "title": "bing-wallpaper/maven.yml at main · tianheg/bing-wallpaper",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/commit/f760cf0610941abf13e4b6139bcbdb16f7452035",
-    "title": "Rename src/FileUtils.java to src/main/java/com/wdbyte/bing/FileUtils.… · tian...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/bing-wallpaper/edit/main/.github/workflows/main.yml",
-    "title": "Editing bing-wallpaper/main.yml at main · tianheg/bing-wallpaper",
-    "count": 1,
-    "uniques": 1
   }
 ]
