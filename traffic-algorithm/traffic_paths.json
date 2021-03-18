@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "path": "/tianheg/algorithm",
+    "title": "tianheg/algorithm: Algorithm and data structure",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/algorithm/tree/main/docs",
+    "title": "algorithm/docs at main · tianheg/algorithm",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/algorithm/blob/main/docs/basis.md",
+    "title": "algorithm/basis.md at main · tianheg/algorithm",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/algorithm/tree/main/.github/workflows",
+    "title": "algorithm/.github/workflows at main · tianheg/algorithm",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/algorithm/tree/main/packages/mathjax-plugin",
+    "title": "algorithm/packages/mathjax-plugin at main · tianheg/algorithm",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/algorithm/tree/main/packages/mathjax-plugin/src",
+    "title": "algorithm/packages/mathjax-plugin/src at main · tianheg/algorithm",
+    "count": 1,
+    "uniques": 1
+  }
+]

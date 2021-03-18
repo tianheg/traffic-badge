@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 25,
+    "count": 23,
     "uniques": 2
   },
   {
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/new/main",
-    "title": "New File",
+    "path": "/tianheg/blog/issues/72",
+    "title": "这个岗位要求很细，可参考 · Issue #72 · tianheg/blog · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/pull/92",
-    "title": "Bump autoprefixer from 10.2.4 to 10.2.5 by dependabot · Pull Request #92 · ti...",
+    "path": "/tianheg/blog/new/main",
+    "title": "New File",
     "count": 1,
     "uniques": 1
   }
