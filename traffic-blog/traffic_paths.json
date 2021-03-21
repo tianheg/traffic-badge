@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 25,
-    "uniques": 3
+    "count": 19,
+    "uniques": 2
   },
   {
     "path": "/tianheg/blog/issues",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/commits/main",
-    "title": "Commits · tianheg/blog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/blog/issues/16",
     "title": "关于 · 一大加贝 · Issue #16 · tianheg/blog",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/tianheg/blog/issues/59",
     "title": "笔记 · Issue #59 · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/72",
+    "title": "这个岗位要求很细，可参考 · Issue #72 · tianheg/blog · GitHub",
     "count": 1,
     "uniques": 1
   }
