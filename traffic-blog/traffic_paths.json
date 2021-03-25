@@ -2,19 +2,19 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 20,
+    "count": 19,
     "uniques": 3
   },
   {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
-    "count": 8,
+    "count": 10,
     "uniques": 3
   },
   {
     "path": "/tianheg/blog/issues/16",
     "title": "关于 · 一大加贝 · Issue #16 · tianheg/blog",
-    "count": 6,
+    "count": 8,
     "uniques": 3
   },
   {
@@ -22,6 +22,12 @@
     "title": "这个岗位要求很细，可参考 · Issue #72 · tianheg/blog · GitHub",
     "count": 4,
     "uniques": 3
+  },
+  {
+    "path": "/tianheg/blog/issues/88",
+    "title": "2020 年终总结 · 一大加贝 · Issue #88 · tianheg/blog",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/tianheg/blog/edit/main/README.md",
@@ -48,15 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/projects",
-    "title": "Projects · tianheg/blog · GitHub",
+    "path": "/tianheg/blog/issues/89",
+    "title": "2019 年终总结 · 一大加贝 · Issue #89 · tianheg/blog",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/actions/new",
-    "title": "Actions · tianheg/blog",
-    "count": 1,
     "uniques": 1
   }
 ]
