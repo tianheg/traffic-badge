@@ -1,7 +1,13 @@
 [
   {
     "path": "/tianheg/bing-wallpaper",
-    "title": "GitHub - tianheg/bing-wallpaper: https://github.com/niumoo/bing-wallpaper",
+    "title": "tianheg/bing-wallpaper: https://github.com/niumoo/bing-wallpaper",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/bing-wallpaper/actions",
+    "title": "Actions · tianheg/bing-wallpaper",
     "count": 1,
     "uniques": 1
   }

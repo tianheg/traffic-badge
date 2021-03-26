@@ -1,5 +1,17 @@
 [
   {
+    "path": "/tianheg/upptime",
+    "title": "tianheg/upptime: 📈 Uptime monitor and status page for tianheg, powered by @u...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/upptime/actions",
+    "title": "Actions · tianheg/upptime",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/upptime/actions/workflows/updates.yml",
     "title": "Actions · tianheg/upptime",
     "count": 4,
@@ -12,18 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/upptime",
-    "title": "tianheg/upptime: 📈 Uptime monitor and status page for tianheg, powered by @u...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime/actions",
-    "title": "Actions · tianheg/upptime",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/upptime/actions/runs/673886917",
     "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@3...",
     "count": 3,
@@ -32,6 +32,12 @@
   {
     "path": "/tianheg/upptime/actions/runs/664932590",
     "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@e...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/upptime/actions/runs/679957530",
+    "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@9...",
     "count": 2,
     "uniques": 1
   },
@@ -49,12 +55,6 @@
   },
   {
     "path": "/tianheg/upptime/actions/workflows/site.yml",
-    "title": "Actions · tianheg/upptime",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime/actions/workflows/update-template.yml",
     "title": "Actions · tianheg/upptime",
     "count": 2,
     "uniques": 1

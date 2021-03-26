@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/tianheg/traffic-badge",
+    "title": "tianheg/traffic-badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/actions",
+    "title": "Actions · tianheg/traffic-badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/blob/main/LICENSE",
+    "title": "tianheg/traffic-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/tree/traffic/traffic-bing-wallpaper",
+    "title": "traffic-badge/traffic-bing-wallpaper at traffic · tianheg/traffic-badge",
+    "count": 1,
+    "uniques": 1
+  }
+]
