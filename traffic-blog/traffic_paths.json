@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 15,
+    "count": 14,
     "uniques": 3
   },
   {
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/blog/issues/66",
+    "title": "镜像源设置 · Issue #66 · tianheg/blog",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/blog/issues/89",
     "title": "2019 年终总结 · 一大加贝 · Issue #89 · tianheg/blog",
     "count": 2,
@@ -51,12 +57,6 @@
     "path": "/tianheg/blog/projects",
     "title": "Projects · tianheg/blog · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/blob/main/README.md",
-    "title": "blog/README.md at main · tianheg/blog",
-    "count": 1,
     "uniques": 1
   }
 ]
