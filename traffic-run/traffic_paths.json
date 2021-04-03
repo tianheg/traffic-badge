@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/run",
     "title": "tianheg/run",
-    "count": 29,
-    "uniques": 2
+    "count": 24,
+    "uniques": 1
   },
   {
     "path": "/tianheg/run/actions/workflows/run_data_sync.yml",
@@ -14,8 +14,8 @@
   {
     "path": "/tianheg/run/actions",
     "title": "Actions · tianheg/run",
-    "count": 8,
-    "uniques": 2
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/tianheg/run/actions/workflows/gh-pages.yml",

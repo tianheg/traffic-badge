@@ -2,43 +2,7 @@
   {
     "path": "/tianheg/github-actions",
     "title": "tianheg/github-actions: GitHub Actions I always use",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/github-actions/blob/main/README.md",
-    "title": "github-actions/README.md at main · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/edit/main/README.md",
-    "title": "Editing github-actions/README.md at main · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/graphs/traffic",
-    "title": "Traffic · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/pulse",
-    "title": "Pulse · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/tree/pipenv",
-    "title": "tianheg/github-actions at pipenv",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/tree/push",
-    "title": "tianheg/github-actions at push",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   }
 ]
