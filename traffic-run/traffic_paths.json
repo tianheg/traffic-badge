@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/run/tree/gh-pages",
+    "title": "tianheg/run at gh-pages",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/run/actions/runs/672656700",
     "title": "Merge branch 'main' of github.com:tianheg/run · tianheg/run@ed1b11c",
     "count": 2,
@@ -32,12 +38,6 @@
   {
     "path": "/tianheg/run/blob/main/.github/workflows/run_data_sync.yml",
     "title": "run/run_data_sync.yml at main · tianheg/run",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/tree/gh-pages",
-    "title": "tianheg/run at gh-pages",
     "count": 2,
     "uniques": 1
   },
