@@ -2,60 +2,42 @@
   {
     "path": "/tianheg/run",
     "title": "tianheg/run",
-    "count": 24,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/tianheg/run/actions/workflows/run_data_sync.yml",
     "title": "Actions · tianheg/run",
-    "count": 10,
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/tianheg/run/actions",
     "title": "Actions · tianheg/run",
-    "count": 7,
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/run/actions/runs/679514798",
+    "title": "Merge branch 'main' of github.com:tianheg/run · tianheg/run@e6fc891",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/run/actions/workflows/gh-pages.yml",
     "title": "Actions · tianheg/run",
-    "count": 4,
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/run/commits/main",
+    "title": "Commits · tianheg/run",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/run/tree/gh-pages",
     "title": "tianheg/run at gh-pages",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/runs/672656700",
-    "title": "Merge branch 'main' of github.com:tianheg/run · tianheg/run@ed1b11c",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/blob/main/.github/workflows/run_data_sync.yml",
-    "title": "run/run_data_sync.yml at main · tianheg/run",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/runs/672642268",
-    "title": "[src/utils/const.js] update · tianheg/run@de0f3f7",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/runs/672665676",
-    "title": "add useful svg · tianheg/run@c76fb39",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/runs/672666343",
-    "title": "add useful svg · tianheg/run@c76fb39",
     "count": 1,
     "uniques": 1
   }
