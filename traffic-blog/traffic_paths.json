@@ -2,61 +2,61 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 15,
-    "uniques": 3
-  },
-  {
-    "path": "/tianheg/blog/issues/16",
-    "title": "关于 · 一大加贝 · Issue #16 · tianheg/blog",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/blog/issues",
-    "title": "Issues · tianheg/blog",
-    "count": 6,
+    "count": 4,
     "uniques": 2
   },
   {
     "path": "/tianheg/blog/issues/88",
     "title": "2020 年终总结 · 一大加贝 · Issue #88 · tianheg/blog",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
     "path": "/tianheg/blog/blob/main/README.md",
     "title": "blog/README.md at main · tianheg/blog",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/edit/main/README.md",
-    "title": "Editing blog/README.md at main · tianheg/blog",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/72",
-    "title": "这个岗位要求很细，可参考 · Issue #72 · tianheg/blog · GitHub",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/16",
+    "title": "关于 · 一大加贝 · Issue #16 · tianheg/blog",
+    "count": 2,
     "uniques": 2
   },
   {
     "path": "/tianheg/blog/projects/1",
     "title": "My blog will be · GitHub",
-    "count": 3,
+    "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/blog/issues",
+    "title": "Issues · tianheg/blog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/edit/main/README.md",
+    "title": "Editing blog/README.md at main · tianheg/blog",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues/66",
     "title": "镜像源设置 · Issue #66 · tianheg/blog",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/85",
+    "title": "持续输出 · Issue #85 · tianheg/blog · GitHub",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues/89",
     "title": "2019 年终总结 · 一大加贝 · Issue #89 · tianheg/blog",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   }
 ]

@@ -1,49 +1,19 @@
 [
   {
-    "path": "/tianheg/upptime/actions/runs/673886917",
-    "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@3...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime/actions/workflows/updates.yml",
-    "title": "Actions · tianheg/upptime",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime/actions/workflows/uptime.yml",
-    "title": "Actions · tianheg/upptime",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime",
-    "title": "tianheg/upptime: 📈 Uptime monitor and status page for tianheg, powered by @u...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/upptime/actions",
-    "title": "Actions · tianheg/upptime",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/upptime/actions/runs/679957530",
     "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@9...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/upptime/actions.html",
-    "title": "Actions · tianheg/upptime",
+    "path": "/tianheg/upptime",
+    "title": "tianheg/upptime: 📈 Uptime monitor and status page for tianheg, powered by @u...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/upptime/actions/runs/675879170",
-    "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@9...",
+    "path": "/tianheg/upptime/actions",
+    "title": "Actions · tianheg/upptime",
     "count": 1,
     "uniques": 1
   },
@@ -54,8 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/upptime/actions/workflows/graphs.yml",
-    "title": "Actions · tianheg/upptime",
+    "path": "/tianheg/upptime/delete/main/.github/workflows/update-template.yml",
+    "title": "Deleting upptime/update-template.yml at main · tianheg/upptime",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/upptime/tree/main/.github/workflows",
+    "title": "upptime/.github/workflows at main · tianheg/upptime",
     "count": 1,
     "uniques": 1
   }
