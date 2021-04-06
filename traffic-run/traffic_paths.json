@@ -1,41 +1,5 @@
 [
   {
-    "path": "/tianheg/run",
-    "title": "tianheg/run",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/workflows/run_data_sync.yml",
-    "title": "Actions · tianheg/run",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions",
-    "title": "Actions · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/runs/679514798",
-    "title": "Merge branch 'main' of github.com:tianheg/run · tianheg/run@e6fc891",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/actions/workflows/gh-pages.yml",
-    "title": "Actions · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/commits/main",
-    "title": "Commits · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/run/tree/gh-pages",
     "title": "tianheg/run at gh-pages",
     "count": 1,

@@ -3,13 +3,7 @@
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/blog/issues/88",
-    "title": "2020 年终总结 · 一大加贝 · Issue #88 · tianheg/blog",
-    "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/tianheg/blog/blob/main/README.md",
@@ -18,22 +12,10 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues/16",
-    "title": "关于 · 一大加贝 · Issue #16 · tianheg/blog",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/blog/projects/1",
     "title": "My blog will be · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/blog/issues",
-    "title": "Issues · tianheg/blog",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/tianheg/blog/edit/main/README.md",
@@ -54,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/issues/89",
-    "title": "2019 年终总结 · 一大加贝 · Issue #89 · tianheg/blog",
+    "path": "/tianheg/blog/pull/94",
+    "title": "Bump @tailwindcss/forms from 0.2.1 to 0.3.0 by dependabot · Pull Request #94 ...",
     "count": 1,
     "uniques": 1
   }

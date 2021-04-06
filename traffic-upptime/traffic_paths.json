@@ -1,11 +1,5 @@
 [
   {
-    "path": "/tianheg/upptime/actions/runs/679957530",
-    "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@9...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/upptime",
     "title": "tianheg/upptime: 📈 Uptime monitor and status page for tianheg, powered by @u...",
     "count": 1,
@@ -14,6 +8,12 @@
   {
     "path": "/tianheg/upptime/actions",
     "title": "Actions · tianheg/upptime",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/upptime/actions/runs/679957530",
+    "title": ":card_file_box: Update status summary [skip ci] [upptime] · tianheg/upptime@9...",
     "count": 1,
     "uniques": 1
   },
