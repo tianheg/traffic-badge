@@ -2,25 +2,7 @@
   {
     "path": "/tianheg/tianheg/actions/workflows/main.yml",
     "title": "Actions · tianheg/tianheg",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg",
-    "title": "tianheg/tianheg",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/actions/runs/681366311",
-    "title": "bot: update README.md automatically · tianheg/tianheg@a98d6de",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/actions",
-    "title": "Actions · tianheg/tianheg",
-    "count": 2,
+    "count": 5,
     "uniques": 1
   },
   {
@@ -30,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/actions/runs/682045083",
-    "title": "bot: update README.md automatically · tianheg/tianheg@a98d6de",
+    "path": "/tianheg/tianheg",
+    "title": "tianheg/tianheg",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/actions/runs/682596737",
-    "title": "bot: update README.md automatically · tianheg/tianheg@a98d6de",
+    "path": "/tianheg/tianheg/actions",
+    "title": "Actions · tianheg/tianheg",
     "count": 1,
     "uniques": 1
   },
