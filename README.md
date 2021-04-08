@@ -1054,6 +1054,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-web-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-web-collection)
 ```
 
+## 📚 [wechat-feeds](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-wechat-feeds)
+
+### 📷 Badges without link of [wechat-feeds](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-wechat-feeds)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [wechat-feeds](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-wechat-feeds)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-wechat-feeds/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-wechat-feeds)
+```
+
 ## 📚 [wiki](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-wiki)
 
 ### 📷 Badges without link of [wiki](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-wiki)
