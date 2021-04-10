@@ -3,12 +3,18 @@
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/tianheg/blog/blob/main/README.md",
     "title": "blog/README.md at main · tianheg/blog",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -32,12 +38,6 @@
   {
     "path": "/tianheg/blog/issues/85",
     "title": "持续输出 · Issue #85 · tianheg/blog · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be · GitHub",
     "count": 1,
     "uniques": 1
   }
