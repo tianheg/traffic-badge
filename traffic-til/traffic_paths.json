@@ -2,25 +2,13 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 5,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/til/graphs/commit-activity",
     "title": "Commit Activity · tianheg/til",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/graphs/code-frequency",
-    "title": "Code frequency · tianheg/til",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/pulse",
-    "title": "Pulse · tianheg/til",
-    "count": 1,
     "uniques": 1
   }
 ]
