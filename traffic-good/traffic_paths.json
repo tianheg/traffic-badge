@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/good",
     "title": "tianheg/good: Something good",
-    "count": 8,
+    "count": 5,
     "uniques": 1
   },
   {
@@ -14,19 +14,7 @@
   {
     "path": "/tianheg/good/tree/main/resources",
     "title": "good/resources at main · tianheg/good",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/blob/main/resources/content-creators.json",
-    "title": "good/content-creators.json at main · tianheg/good",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/blob/main/resources/index.js",
-    "title": "good/index.js at main · tianheg/good",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   },
   {
