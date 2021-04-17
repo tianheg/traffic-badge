@@ -1203,3 +1203,33 @@
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-yarn-offline-mirror/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-yarn-offline-mirror)
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-yarn-offline-mirror/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-yarn-offline-mirror)
 ```
+
+## 📚 [zola-blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-zola-blog)
+
+### 📷 Badges without link of [zola-blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-zola-blog)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [zola-blog](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-zola-blog)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-zola-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-zola-blog)
+```
