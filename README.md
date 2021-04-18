@@ -334,36 +334,6 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-english/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-english)
 ```
 
-## 📚 [fcc-news](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-fcc-news)
-
-### 📷 Badges without link of [fcc-news](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-fcc-news)
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [fcc-news](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-fcc-news)
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-
-```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-fcc-news/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-fcc-news)
-```
-
 ## 📚 [github-actions](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-github-actions)
 
 ### 📷 Badges without link of [github-actions](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-github-actions)
