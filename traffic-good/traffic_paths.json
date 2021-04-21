@@ -2,19 +2,7 @@
   {
     "path": "/tianheg/good",
     "title": "tianheg/good: Something good",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/blob/main/resources/passages-not-dev.json",
-    "title": "good/passages-not-dev.json at main · tianheg/good",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/tree/main/resources",
-    "title": "good/resources at main · tianheg/good",
-    "count": 3,
+    "count": 11,
     "uniques": 1
   },
   {
@@ -24,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/good/edit/main/resources/daily.json",
-    "title": "Editing good/daily.json at main · tianheg/good",
-    "count": 1,
+    "path": "/tianheg/good/tree/main/resources",
+    "title": "good/resources at main · tianheg/good",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/good/edit/main/resources/passages-not-dev.json",
-    "title": "Editing good/passages-not-dev.json at main · tianheg/good",
+    "path": "/tianheg/good/edit/main/resources/daily.json",
+    "title": "Editing good/daily.json at main · tianheg/good",
     "count": 1,
     "uniques": 1
   }

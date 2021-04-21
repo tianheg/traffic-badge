@@ -1,14 +1,14 @@
 [
   {
-    "path": "/tianheg/wechat-feeds",
-    "title": "tianheg/wechat-feeds",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/wechat-feeds/issues/1",
     "title": "为什么每天都那么累？ · Issue #1 · tianheg/wechat-feeds",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/wechat-feeds",
+    "title": "tianheg/wechat-feeds",
+    "count": 1,
     "uniques": 1
   }
 ]
