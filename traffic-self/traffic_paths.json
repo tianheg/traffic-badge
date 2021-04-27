@@ -2,19 +2,13 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 7,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/tianheg/self/blob/main/config.toml",
     "title": "self/config.toml at main · tianheg/self",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/edit/main/config.toml",
-    "title": "Editing self/config.toml at main · tianheg/self",
-    "count": 3,
+    "count": 5,
     "uniques": 1
   },
   {
@@ -38,6 +32,12 @@
   {
     "path": "/tianheg/self/blob/main/content/original/_index.md",
     "title": "self/_index.md at main · tianheg/self",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/edit/main/config.toml",
+    "title": "Editing self/config.toml at main · tianheg/self",
     "count": 1,
     "uniques": 1
   },
