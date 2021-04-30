@@ -2,25 +2,7 @@
   {
     "path": "/tianheg/good",
     "title": "tianheg/good: Something good",
-    "count": 11,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/blob/main/resources/daily.json",
-    "title": "good/daily.json at main · tianheg/good",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/edit/main/resources/daily.json",
-    "title": "Editing good/daily.json at main · tianheg/good",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good/tree/main/resources",
-    "title": "good/resources at main · tianheg/good",
-    "count": 1,
+    "count": 6,
     "uniques": 1
   }
 ]

@@ -1,56 +1,8 @@
 [
   {
-    "path": "/tianheg/self",
-    "title": "tianheg/self",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/self/blob/main/config.toml",
     "title": "self/config.toml at main · tianheg/self",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/main/content",
-    "title": "self/content at main · tianheg/self",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/blob/main/content/idea/_index.md",
-    "title": "self/_index.md at main · tianheg/self",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/main/content/idea",
-    "title": "self/content/idea at main · tianheg/self",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/blob/main/content/original/_index.md",
-    "title": "self/_index.md at main · tianheg/self",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/edit/main/config.toml",
-    "title": "Editing self/config.toml at main · tianheg/self",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/edit/main/content/original/_index.md",
-    "title": "Editing self/_index.md at main · tianheg/self",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/main/content/original",
-    "title": "self/content/original at main · tianheg/self",
-    "count": 1,
     "uniques": 1
   }
 ]
