@@ -1294,6 +1294,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-web-collection/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-web-collection)
 ```
 
+## 📚 [xiaomi](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-xiaomi)
+
+### 📷 Badges without link of [xiaomi](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-xiaomi)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [xiaomi](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-xiaomi)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-xiaomi/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-xiaomi)
+```
+
 ## 📚 [yarn-offline-mirror](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-yarn-offline-mirror)
 
 ### 📷 Badges without link of [yarn-offline-mirror](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-yarn-offline-mirror)
