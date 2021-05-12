@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/tianheg/til/blob/2e49455c810211e7173fc030978d51553d7a83e7/docs/project/project-guidelines.md",
@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/til/blob/main/html/add-a-submit-button-to-a-form.md",
-    "title": "til/add-a-submit-button-to-a-form.md at main · tianheg/til · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/til/edit/main/docs/others/README.md",
     "title": "Editing til/README.md at main · tianheg/til",
     "count": 1,
@@ -44,12 +38,6 @@
   {
     "path": "/tianheg/til/tree/main/docs/others",
     "title": "til/docs/others at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/tree/main/html",
-    "title": "til/html at main · tianheg/til · GitHub",
     "count": 1,
     "uniques": 1
   }
