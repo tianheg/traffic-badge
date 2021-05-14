@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 2,
-    "uniques": 2
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/tianheg/til/blob/2e49455c810211e7173fc030978d51553d7a83e7/docs/project/project-guidelines.md",
@@ -26,6 +26,12 @@
   {
     "path": "/tianheg/til/edit/main/docs/others/README.md",
     "title": "Editing til/README.md at main · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/issues",
+    "title": "Issues · tianheg/til",
     "count": 1,
     "uniques": 1
   },
