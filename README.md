@@ -664,6 +664,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-next-blog/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-next-blog)
 ```
 
+## 📚 [osmosfeed-demo](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-osmosfeed-demo)
+
+### 📷 Badges without link of [osmosfeed-demo](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-osmosfeed-demo)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [osmosfeed-demo](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-osmosfeed-demo)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-osmosfeed-demo/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-osmosfeed-demo)
+```
+
 ## 📚 [poem](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-poem)
 
 ### 📷 Badges without link of [poem](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-poem)
