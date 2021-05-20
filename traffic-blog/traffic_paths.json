@@ -1,14 +1,20 @@
 [
   {
+    "path": "/tianheg/blog",
+    "title": "tianheg/blog: Blog Source Files",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/blog/issues/13",
     "title": "nil pointer evaluating resource.Resource.RelPermalink · Issue #13 · tianheg/b...",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/tianheg/blog",
-    "title": "tianheg/blog: Blog Source Files",
-    "count": 2,
+    "path": "/tianheg/blog/blob/main/config.toml",
+    "title": "blog/config.toml at main · tianheg/blog",
+    "count": 1,
     "uniques": 1
   },
   {
