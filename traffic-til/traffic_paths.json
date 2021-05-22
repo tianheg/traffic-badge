@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 6,
+    "count": 5,
     "uniques": 4
   },
   {
@@ -12,32 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/til/blob/7fd93069698b2fe534a1602117ced67c229c4901/docs/openssl/file-encryption-using-openssl.md",
-    "title": "til/file-encryption-using-openssl.md at 7fd93069698b2fe534a1602117ced67c229c4...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/edit/main/docs/others/README.md",
-    "title": "Editing til/README.md at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/til/issues",
     "title": "Issues · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/tree/main/docs",
-    "title": "til/docs at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/tree/main/docs/others",
-    "title": "til/docs/others at main · tianheg/til",
     "count": 1,
     "uniques": 1
   }
