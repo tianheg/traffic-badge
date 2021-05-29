@@ -2,18 +2,12 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/tianheg/self/actions",
     "title": "Actions · tianheg/self",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/blob/7b49bd678d47bc27bbfd2d0a1812147e84cc0bb7/config.toml",
-    "title": "self/config.toml at 7b49bd678d47bc27bbfd2d0a1812147e84cc0bb7 · tianheg/self ·...",
     "count": 1,
     "uniques": 1
   },
