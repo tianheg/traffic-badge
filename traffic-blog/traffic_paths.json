@@ -2,18 +2,18 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 5,
+    "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/tianheg/blog/issues/13",
-    "title": "nil pointer evaluating resource.Resource.RelPermalink · Issue #13 · tianheg/b...",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/tianheg/blog/blob/main/config.toml",
     "title": "blog/config.toml at main · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/13",
+    "title": "nil pointer evaluating resource.Resource.RelPermalink · Issue #13 · tianheg/b...",
     "count": 1,
     "uniques": 1
   },
