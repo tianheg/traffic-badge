@@ -2,7 +2,19 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 5,
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/commit/08270ddc6c0b35b6ca21166b7829dc76bd385758",
+    "title": "Delete files · tianheg/blog@08270dd",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/commits/main",
+    "title": "Commits · tianheg/blog",
+    "count": 1,
     "uniques": 1
   },
   {
