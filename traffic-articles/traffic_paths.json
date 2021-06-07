@@ -2,13 +2,7 @@
   {
     "path": "/tianheg/articles/tree/main/2021",
     "title": "articles/2021 at main · tianheg/articles",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles",
-    "title": "tianheg/articles: personal articles",
-    "count": 2,
+    "count": 4,
     "uniques": 1
   },
   {
@@ -26,12 +20,6 @@
   {
     "path": "/tianheg/articles/blob/main/2021/2021-05-26-es6.md",
     "title": "articles/2021-05-26-es6.md at main · tianheg/articles",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles/commits/main",
-    "title": "Commits · tianheg/articles",
     "count": 1,
     "uniques": 1
   }

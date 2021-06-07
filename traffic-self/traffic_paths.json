@@ -2,25 +2,7 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/commits/main",
-    "title": "Commits · tianheg/self",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/main/content",
-    "title": "self/content at main · tianheg/self",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/blob/d2ed171fd94bf7ffa69a3ababf16a2e9059f4d7d/content/notes/%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%81%94%E7%9B%9F%E4%B8%AD%E7%9A%84%E5%9B%BE%E4%B9%A6%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96.md",
-    "title": "self/图书馆联盟中的图书如何获取.md at d2ed171fd94bf7ffa69a3ababf16a2e9059f4d7d · tianheg/s...",
-    "count": 1,
+    "count": 4,
     "uniques": 1
   },
   {
@@ -36,20 +18,20 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/self/commits/main",
+    "title": "Commits · tianheg/self",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/self/edit/main/content/photo/_index.md",
     "title": "Editing self/_index.md at main · tianheg/self",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/self/issues/1",
-    "title": "如何学哲学？ · Issue #1 · tianheg/self · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/main/content/excerpt",
-    "title": "self/content/excerpt at main · tianheg/self",
+    "path": "/tianheg/self/tree/main/content",
+    "title": "self/content at main · tianheg/self",
     "count": 1,
     "uniques": 1
   },
