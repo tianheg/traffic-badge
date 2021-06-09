@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
@@ -14,6 +14,18 @@
   {
     "path": "/tianheg/blog/commits/main",
     "title": "Commits · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues",
+    "title": "Issues · tianheg/blog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/issues/100",
+    "title": "编程路漫漫 - 一大加贝 · Issue #100 · tianheg/blog",
     "count": 1,
     "uniques": 1
   },
