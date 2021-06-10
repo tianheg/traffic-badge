@@ -1,32 +1,8 @@
 [
   {
-    "path": "/tianheg/articles/tree/main/2021",
-    "title": "articles/2021 at main · tianheg/articles",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/articles",
     "title": "tianheg/articles: personal articles",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles/blob/main/2021/2021-05-26-react.md",
-    "title": "articles/2021-05-26-react.md at main · tianheg/articles",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles/blob/main/2021/2021-05-26-%E8%87%AA%E6%88%91%E7%9F%9B%E7%9B%BE%E7%9A%84%E6%96%97%E4%BA%89.md",
-    "title": "articles/2021-05-26-自我矛盾的斗争.md at main · tianheg/articles",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles/blob/main/2021/2021-05-26-es6.md",
-    "title": "articles/2021-05-26-es6.md at main · tianheg/articles",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -38,6 +14,12 @@
   {
     "path": "/tianheg/articles/commits/main",
     "title": "Commits · tianheg/articles",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/articles/tree/main/2021",
+    "title": "articles/2021 at main · tianheg/articles",
     "count": 1,
     "uniques": 1
   }
