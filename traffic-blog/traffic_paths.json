@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/blog/commit/08270ddc6c0b35b6ca21166b7829dc76bd385758",
     "title": "Delete files · tianheg/blog@08270dd",
     "count": 1,
@@ -26,12 +32,6 @@
   {
     "path": "/tianheg/blog/issues/100",
     "title": "编程路漫漫 - 一大加贝 · Issue #100 · tianheg/blog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be",
     "count": 1,
     "uniques": 1
   }

@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 13,
+    "count": 14,
     "uniques": 1
   },
   {
@@ -14,6 +14,12 @@
   {
     "path": "/tianheg/til/community",
     "title": "Community",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/search",
+    "title": "Search · stars user:tianheg",
     "count": 2,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/til/graphs/commit-activity",
     "title": "Commit Activity · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/graphs/traffic",
-    "title": "Traffic · tianheg/til",
     "count": 1,
     "uniques": 1
   }
