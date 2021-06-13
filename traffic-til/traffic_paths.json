@@ -2,19 +2,7 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 14,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/community/code-of-conduct/new",
-    "title": "Add a code of conduct to tianheg/til",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/community",
-    "title": "Community",
-    "count": 2,
+    "count": 11,
     "uniques": 1
   },
   {
@@ -48,14 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/til/graphs/code-frequency",
-    "title": "Code frequency · tianheg/til",
+    "path": "/tianheg/til/security/dependabot",
+    "title": "Dependabot alerts · tianheg/til",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/til/graphs/commit-activity",
-    "title": "Commit Activity · tianheg/til",
+    "path": "/tianheg/til/security/dependabot/just-the-docs.gemspec/bundler/open",
+    "title": "Alerts · tianheg/til",
     "count": 1,
     "uniques": 1
   }

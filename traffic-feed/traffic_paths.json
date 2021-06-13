@@ -8,18 +8,18 @@
   {
     "path": "/tianheg/feed/blob/main/feeds.csv",
     "title": "feed/feeds.csv at main · tianheg/feed",
-    "count": 6,
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/feed/blob/main/osmosfeed.yaml",
+    "title": "feed/osmosfeed.yaml at main · tianheg/feed",
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/tianheg/feed/blob/main/.github/workflows/generate-feed-pages.yaml",
     "title": "feed/generate-feed-pages.yaml at main · tianheg/feed",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/edit/main/feeds.csv",
-    "title": "Editing feed/feeds.csv at main · tianheg/feed",
     "count": 3,
     "uniques": 1
   },
@@ -36,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/feed/blob/main/osmosfeed.yaml",
-    "title": "feed/osmosfeed.yaml at main · tianheg/feed",
+    "path": "/tianheg/feed/edit/main/feeds.csv",
+    "title": "Editing feed/feeds.csv at main · tianheg/feed",
     "count": 2,
     "uniques": 1
   },
