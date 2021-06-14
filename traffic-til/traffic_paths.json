@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 11,
-    "uniques": 1
+    "count": 13,
+    "uniques": 2
   },
   {
     "path": "/tianheg/til/search",
@@ -32,6 +32,12 @@
   {
     "path": "/tianheg/til/commit/f91331bbc293de079e168c5059be5645aec1265e",
     "title": "Open link new tab · tianheg/til@f91331b",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/issues",
+    "title": "Issues · tianheg/til",
     "count": 1,
     "uniques": 1
   },

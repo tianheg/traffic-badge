@@ -2,7 +2,13 @@
   {
     "path": "/tianheg/tianheg",
     "title": "tianheg/tianheg",
-    "count": 9,
+    "count": 19,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tianheg/commits/main",
+    "title": "Commits · tianheg/tianheg",
+    "count": 10,
     "uniques": 1
   },
   {
@@ -18,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/commits/main",
-    "title": "Commits · tianheg/tianheg",
+    "path": "/tianheg/tianheg/issues",
+    "title": "Issues · tianheg/tianheg",
     "count": 4,
     "uniques": 1
   },
@@ -44,12 +50,6 @@
   {
     "path": "/tianheg/tianheg/edit/main/my-readme-stats.md",
     "title": "Editing tianheg/my-readme-stats.md at main · tianheg/tianheg",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/issues",
-    "title": "Issues · tianheg/tianheg",
     "count": 2,
     "uniques": 1
   },

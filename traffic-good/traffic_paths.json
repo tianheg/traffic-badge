@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/good/security/dependabot/yarn.lock/normalize-url/open",
+    "title": "Alerts · tianheg/good",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/good",
     "title": "tianheg/good: Something good",
     "count": 2,
@@ -18,14 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/good/pull/9",
-    "title": "Bump ws from 7.4.4 to 7.4.6 by dependabot · Pull Request #9 · tianheg/good",
-    "count": 1,
+    "path": "/tianheg/good/security/dependabot",
+    "title": "Dependabot alerts · tianheg/good",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/good/security/dependabot",
-    "title": "Dependabot alerts · tianheg/good",
+    "path": "/tianheg/good/pull/9",
+    "title": "Bump ws from 7.4.4 to 7.4.6 by dependabot · Pull Request #9 · tianheg/good",
     "count": 1,
     "uniques": 1
   }
