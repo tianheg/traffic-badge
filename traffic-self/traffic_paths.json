@@ -2,24 +2,12 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 4,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/self/blob/efe6ab7ed0d577ee7ca314449b6073661e581407/content/notes/words-from-tombkeeper.md",
     "title": "self/words-from-tombkeeper.md at efe6ab7ed0d577ee7ca314449b6073661e581407 · t...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/blob/main/layouts/shortcodes/quote-center.html",
-    "title": "self/quote-center.html at main · tianheg/self",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/commits/main",
-    "title": "Commits · tianheg/self",
     "count": 1,
     "uniques": 1
   },

@@ -3,7 +3,7 @@
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
     "count": 13,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/tianheg/til/search",
@@ -14,12 +14,6 @@
   {
     "path": "/tianheg/til/blob/main/LICENSE",
     "title": "til/LICENSE at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/blob/main/references.md",
-    "title": "til/references.md at main · tianheg/til",
     "count": 1,
     "uniques": 1
   },
