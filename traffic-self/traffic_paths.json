@@ -2,12 +2,36 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 2,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/tianheg/self/blob/efe6ab7ed0d577ee7ca314449b6073661e581407/content/notes/words-from-tombkeeper.md",
     "title": "self/words-from-tombkeeper.md at efe6ab7ed0d577ee7ca314449b6073661e581407 · t...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/commit/0070812210ad8443ed02809efdcf09d07c78e9f9",
+    "title": "add: 沉思录210615 · tianheg/self@0070812",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/commits/main",
+    "title": "Commits · tianheg/self",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/issues",
+    "title": "Issues · tianheg/self",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/tree/0070812210ad8443ed02809efdcf09d07c78e9f9",
+    "title": "tianheg/self at 0070812210ad8443ed02809efdcf09d07c78e9f9",
     "count": 1,
     "uniques": 1
   },

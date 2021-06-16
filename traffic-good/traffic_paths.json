@@ -1,5 +1,11 @@
 [
   {
+    "path": "/tianheg/good",
+    "title": "tianheg/good: Something good",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/good/security/dependabot/yarn.lock/trim-newlines/open",
     "title": "Alerts · tianheg/good",
     "count": 5,
@@ -9,12 +15,6 @@
     "path": "/tianheg/good/security/dependabot/yarn.lock/normalize-url/open",
     "title": "Alerts · tianheg/good",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/good",
-    "title": "tianheg/good: Something good",
-    "count": 2,
     "uniques": 1
   },
   {
