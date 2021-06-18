@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "path": "/tianheg/traffic-badge",
+    "title": "tianheg/traffic-badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/pulls",
+    "title": "Pull requests · tianheg/traffic-badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/actions",
+    "title": "Actions · tianheg/traffic-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/pull/15",
+    "title": "Bump actions/github-script from 4.0.1 to 4.0.2 by dependabot · Pull Request #...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/traffic-badge/tree/traffic",
+    "title": "tianheg/traffic-badge at traffic",
+    "count": 1,
+    "uniques": 1
+  }
+]

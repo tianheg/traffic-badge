@@ -544,6 +544,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-historical-weather-data/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-historical-weather-data)
 ```
 
+## 📚 [jiketown](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-jiketown)
+
+### 📷 Badges without link of [jiketown](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-jiketown)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [jiketown](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-jiketown)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-jiketown/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-jiketown)
+```
+
 ## 📚 [logo-design](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-logo-design)
 
 ### 📷 Badges without link of [logo-design](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-logo-design)
