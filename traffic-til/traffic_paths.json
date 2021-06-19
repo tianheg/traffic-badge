@@ -2,25 +2,13 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 15,
+    "count": 8,
     "uniques": 3
   },
   {
     "path": "/tianheg/til/search",
     "title": "Search · stars user:tianheg",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/blob/main/LICENSE",
-    "title": "til/LICENSE at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/branches",
-    "title": "Branches · tianheg/til",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -32,18 +20,6 @@
   {
     "path": "/tianheg/til/issues",
     "title": "Issues · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/security/dependabot",
-    "title": "Dependabot alerts · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/security/dependabot/just-the-docs.gemspec/bundler/open",
-    "title": "Alerts · tianheg/til",
     "count": 1,
     "uniques": 1
   }
