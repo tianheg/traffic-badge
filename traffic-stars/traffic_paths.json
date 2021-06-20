@@ -2,7 +2,61 @@
   {
     "path": "/tianheg/stars",
     "title": "tianheg/stars: All my stars repositories",
-    "count": 3,
+    "count": 8,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/stars/actions/workflows/ci.yml",
+    "title": "Actions · tianheg/stars",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/main/.github/workflows/ci.yml",
+    "title": "stars/ci.yml at main · tianheg/stars",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/edit/main/.github/workflows/ci.yml",
+    "title": "Editing stars/ci.yml at main · tianheg/stars",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/actions",
+    "title": "Actions · tianheg/stars",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/actions/runs/949016963",
+    "title": "test: cancel sort · tianheg/stars@9c4a275",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/actions/runs/949045947",
+    "title": "update: actions/setup-python v2 · tianheg/stars@67dcd80",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/blob/main/README.md",
+    "title": "stars/README.md at main · tianheg/stars",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/commits/main",
+    "title": "Commits · tianheg/stars",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/stars/edit/main/README.md",
+    "title": "Editing stars/README.md at main · tianheg/stars",
+    "count": 1,
+    "uniques": 1
   }
 ]

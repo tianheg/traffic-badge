@@ -2,18 +2,12 @@
   {
     "path": "/tianheg/articles",
     "title": "tianheg/articles: personal articles",
-    "count": 7,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/tianheg/articles/blob/main/new.sh",
     "title": "articles/new.sh at main · tianheg/articles",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/articles/commits/main",
-    "title": "Commits · tianheg/articles",
     "count": 1,
     "uniques": 1
   }

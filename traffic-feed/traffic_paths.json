@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/feed",
     "title": "tianheg/feed: Info Source",
-    "count": 56,
+    "count": 52,
     "uniques": 1
   },
   {
     "path": "/tianheg/feed/actions",
     "title": "Actions · tianheg/feed",
-    "count": 13,
+    "count": 12,
     "uniques": 1
   },
   {
@@ -20,7 +20,7 @@
   {
     "path": "/tianheg/feed/actions/workflows/update.yaml",
     "title": "Actions · tianheg/feed",
-    "count": 7,
+    "count": 5,
     "uniques": 1
   },
   {
