@@ -2,6 +2,18 @@
   {
     "path": "/tianheg/static",
     "title": "tianheg/static: jsDelivr CDN static",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/static/pull/4",
+    "title": "[ImgBot] Optimize images by imgbot · Pull Request #4 · tianheg/static",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/static/pulls",
+    "title": "Pull requests · tianheg/static",
     "count": 1,
     "uniques": 1
   }
