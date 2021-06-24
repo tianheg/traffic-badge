@@ -2,60 +2,42 @@
   {
     "path": "/tianheg/tianheg",
     "title": "tianheg/tianheg",
-    "count": 19,
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/tianheg/tianheg/commits/main",
     "title": "Commits · tianheg/tianheg",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/actions/workflows/main.yml",
-    "title": "Actions · tianheg/tianheg",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/blob/main/my-readme-stats.md",
-    "title": "tianheg/my-readme-stats.md at main · tianheg/tianheg",
     "count": 6,
     "uniques": 1
   },
   {
     "path": "/tianheg/tianheg/issues",
     "title": "Issues · tianheg/tianheg",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tianheg/actions",
-    "title": "Actions · tianheg/tianheg",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/blob/main/.github/workflows/main.yml",
-    "title": "tianheg/main.yml at main · tianheg/tianheg",
-    "count": 2,
+    "path": "/tianheg/tianheg/graphs/commit-activity",
+    "title": "Commit Activity · tianheg/tianheg",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/edit/main/.github/workflows/main.yml",
-    "title": "Editing tianheg/main.yml at main · tianheg/tianheg",
-    "count": 2,
+    "path": "/tianheg/tianheg/graphs/contributors",
+    "title": "Contributors to tianheg/tianheg",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/edit/main/my-readme-stats.md",
-    "title": "Editing tianheg/my-readme-stats.md at main · tianheg/tianheg",
-    "count": 2,
+    "path": "/tianheg/tianheg/issues/1",
+    "title": "How this works · Issue #1 · tianheg/tianheg · GitHub",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/tianheg/tianheg/actions/runs/925349742",
-    "title": "force push · tianheg/tianheg@1265bcf",
+    "path": "/tianheg/tianheg/pulse",
+    "title": "Pulse · tianheg/tianheg",
     "count": 1,
     "uniques": 1
   }
