@@ -2,7 +2,25 @@
   {
     "path": "/tianheg/50projects50days",
     "title": "tianheg/50projects50days: Exercise as much as more",
-    "count": 4,
+    "count": 16,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/tree/main/expanding-cards",
+    "title": "50projects50days/expanding-cards at main · tianheg/50projects50days",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/tree/main/rotating-nav-animation",
+    "title": "50projects50days/rotating-nav-animation at main · tianheg/50projects50days",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/tree/main/progress-steps",
+    "title": "50projects50days/progress-steps at main · tianheg/50projects50days",
+    "count": 1,
     "uniques": 1
   }
 ]

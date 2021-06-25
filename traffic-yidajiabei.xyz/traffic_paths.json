@@ -2,8 +2,20 @@
   {
     "path": "/tianheg/tianheg.github.io",
     "title": "tianheg/tianheg.github.io: home",
-    "count": 5,
+    "count": 6,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz",
+    "title": "tianheg/yidajiabei.xyz: home",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz/issues",
+    "title": "tianheg/yidajiabei.xyz: home",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/tianheg/tianheg.github.io/actions",
@@ -20,6 +32,24 @@
   {
     "path": "/tianheg/tianheg.github.io/edit/main/README.md",
     "title": "Editing tianheg.github.io/README.md at main · tianheg/tianheg.github.io",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tianheg.github.io/issues",
+    "title": "Issues · tianheg/tianheg.github.io",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz/blob/main/index.html",
+    "title": "yidajiabei.xyz/index.html at main · tianheg/yidajiabei.xyz",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/yidajiabei.xyz/edit/main/index.html",
+    "title": "Editing yidajiabei.xyz/index.html at main · tianheg/yidajiabei.xyz",
     "count": 1,
     "uniques": 1
   }
