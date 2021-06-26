@@ -2,18 +2,42 @@
   {
     "path": "/tianheg/reading-list",
     "title": "tianheg/reading-list: Some books I read",
-    "count": 2,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/tianheg/reading-list/blob/main/README.md",
     "title": "reading-list/README.md at main · tianheg/reading-list",
-    "count": 2,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/tianheg/reading-list/edit/main/README.md",
     "title": "Editing reading-list/README.md at main · tianheg/reading-list",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/reading-list/projects/1",
+    "title": "To be read",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/reading-list/commits/main/README.md",
+    "title": "History for README.md - tianheg/reading-list",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/reading-list/projects",
+    "title": "Projects · tianheg/reading-list",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/reading-list/projects/new",
+    "title": "New Project",
     "count": 1,
     "uniques": 1
   }
