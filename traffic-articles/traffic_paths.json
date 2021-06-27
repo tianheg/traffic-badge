@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/articles",
     "title": "tianheg/articles: personal articles",
-    "count": 6,
+    "count": 7,
     "uniques": 1
   },
   {
@@ -26,6 +26,12 @@
   {
     "path": "/tianheg/articles/blob/main/new.sh",
     "title": "articles/new.sh at main · tianheg/articles",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/articles/search",
+    "title": "Search · 稚晖君",
     "count": 1,
     "uniques": 1
   },

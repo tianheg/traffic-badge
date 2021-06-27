@@ -1,61 +1,13 @@
 [
   {
-    "path": "/tianheg/github-actions/tree/push",
-    "title": "tianheg/github-actions at push",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/blob/push/README.md",
-    "title": "github-actions/README.md at push · tianheg/github-actions",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions",
-    "title": "tianheg/github-actions: GitHub Actions I always use",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/edit/push/README.md",
-    "title": "Editing github-actions/README.md at push · tianheg/github-actions",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/blob/push/action.yml",
-    "title": "github-actions/action.yml at push · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/blob/push/start.js",
-    "title": "github-actions/start.js at push · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/edit/push/action.yml",
-    "title": "Editing github-actions/action.yml at push · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/edit/push/start.js",
-    "title": "Editing github-actions/start.js at push · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/github-actions/edit/push/start.sh",
-    "title": "Editing github-actions/start.sh at push · tianheg/github-actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/github-actions/tree/hugo",
     "title": "tianheg/github-actions at hugo",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/github-actions/tree/push",
+    "title": "tianheg/github-actions at push",
     "count": 1,
     "uniques": 1
   }
