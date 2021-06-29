@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/config",
     "title": "tianheg/config: config files about git, zsh, vscode, and so on",
-    "count": 7,
+    "count": 8,
     "uniques": 1
   },
   {
@@ -14,6 +14,12 @@
   {
     "path": "/tianheg/config/blob/main/git/gitconfig",
     "title": "config/gitconfig at main · tianheg/config",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/shell/zshrc_ubuntu",
+    "title": "config/zshrc_ubuntu at main · tianheg/config",
     "count": 3,
     "uniques": 1
   },
@@ -32,12 +38,6 @@
   {
     "path": "/tianheg/config/blob/main/shell/zshrc",
     "title": "config/zshrc at main · tianheg/config",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/blob/main/shell/zshrc_ubuntu",
-    "title": "config/zshrc_ubuntu at main · tianheg/config",
     "count": 2,
     "uniques": 1
   },

@@ -1,15 +1,15 @@
 [
   {
-    "path": "/tianheg/articles",
-    "title": "tianheg/articles: personal articles",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/articles/blob/1272e74e5a15eb0b0072a1750e83917e51b634bc/2021/2021-06-14-%E6%B2%89%E6%80%9D%E5%BD%95210614.md",
     "title": "articles/2021-06-14-沉思录210614.md at 1272e74e5a15eb0b0072a1750e83917e51b634bc ...",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/articles",
+    "title": "tianheg/articles: personal articles",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/tianheg/articles/blob/1272e74e5a15eb0b0072a1750e83917e51b634bc/2021/2021-05-13-%E6%B2%89%E6%80%9D%E5%BD%95210513.md",

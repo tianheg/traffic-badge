@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/50projects50days",
     "title": "tianheg/50projects50days: Exercise as much as more",
-    "count": 19,
+    "count": 33,
     "uniques": 1
   },
   {
@@ -15,6 +15,12 @@
     "path": "/tianheg/50projects50days/commits/main",
     "title": "Commits · tianheg/50projects50days",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/issues/1",
+    "title": "目标网页没有自动添加 `/` 导致浏览器找不到页面 · Issue #1 · tianheg/50projects50days",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -42,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/50projects50days/tree/main/progress-steps",
-    "title": "50projects50days/progress-steps at main · tianheg/50projects50days",
+    "path": "/tianheg/50projects50days/issues",
+    "title": "Issues · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/issues/new",
+    "title": "New Issue · tianheg/50projects50days",
     "count": 1,
     "uniques": 1
   }
