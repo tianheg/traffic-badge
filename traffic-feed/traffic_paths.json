@@ -2,43 +2,13 @@
   {
     "path": "/tianheg/feed",
     "title": "tianheg/feed: Info Source",
-    "count": 24,
+    "count": 19,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/feed/blob/main/.github/workflows/build.yaml",
-    "title": "feed/build.yaml at main · tianheg/feed",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/tianheg/feed/blob/main/osmosfeed.yaml",
     "title": "feed/osmosfeed.yaml at main · tianheg/feed",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/edit/main/.github/workflows/build.yaml",
-    "title": "Editing feed/build.yaml at main · tianheg/feed",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/tree/gh-pages",
-    "title": "tianheg/feed at gh-pages",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/actions",
-    "title": "Actions · tianheg/feed",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/actions/runs/941693878",
-    "title": "add: `force_orphan: true` · tianheg/feed@09be7fd",
-    "count": 1,
     "uniques": 1
   },
   {
