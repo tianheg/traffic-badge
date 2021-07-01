@@ -574,6 +574,36 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-logo-design/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-logo-design)
 ```
 
+## 📚 [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
+
+### 📷 Badges without link of [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
+
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)
+![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)
+![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
+
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+
+```markdown
+[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
+```
+
 ## 📚 [new-repo-template](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-new-repo-template)
 
 ### 📷 Badges without link of [new-repo-template](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-new-repo-template)
