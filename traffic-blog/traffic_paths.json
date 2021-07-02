@@ -2,8 +2,14 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 9,
+    "count": 11,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/blog/tree/dev",
+    "title": "tianheg/blog at dev",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues",
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/blog/projects",
     "title": "Projects · tianheg/blog",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be",
     "count": 1,
     "uniques": 1
   }
