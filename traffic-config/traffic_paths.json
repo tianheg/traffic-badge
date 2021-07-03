@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/config/blob/main/shell/nodeys.zsh-theme",
+    "title": "config/nodeys.zsh-theme at main · tianheg/config",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/tianheg/config/blob/main/git/gitconfig",
     "title": "config/gitconfig at main · tianheg/config",
     "count": 3,
@@ -26,12 +32,6 @@
   {
     "path": "/tianheg/config/blob/main/shell/install-nodeys-zsh-theme.md",
     "title": "config/install-nodeys-zsh-theme.md at main · tianheg/config",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/blob/main/shell/nodeys.zsh-theme",
-    "title": "config/nodeys.zsh-theme at main · tianheg/config",
     "count": 2,
     "uniques": 1
   },

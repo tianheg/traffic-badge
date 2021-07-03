@@ -2,24 +2,18 @@
   {
     "path": "/tianheg/feed",
     "title": "tianheg/feed: Info Source",
-    "count": 16,
+    "count": 11,
     "uniques": 2
   },
   {
     "path": "/tianheg/feed/blob/main/osmosfeed.yaml",
     "title": "feed/osmosfeed.yaml at main · tianheg/feed",
-    "count": 3,
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/feed/commit/a31a9255247c4c9ac49dee453d1717a98a46c936",
     "title": "add: github-actions[bot] · tianheg/feed@a31a925",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/feed/edit/main/osmosfeed.yaml",
-    "title": "Editing feed/osmosfeed.yaml at main · tianheg/feed",
     "count": 1,
     "uniques": 1
   }
