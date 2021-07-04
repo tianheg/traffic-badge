@@ -1,14 +1,14 @@
 [
   {
-    "path": "/tianheg/historical-weather-data",
-    "title": "tianheg/historical-weather-data",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/historical-weather-data/tree/main/docs",
     "title": "historical-weather-data/docs at main · tianheg/historical-weather-data · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/historical-weather-data",
+    "title": "tianheg/historical-weather-data",
+    "count": 1,
     "uniques": 1
   },
   {

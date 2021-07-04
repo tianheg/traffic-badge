@@ -2,13 +2,19 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 9,
+    "count": 17,
     "uniques": 3
+  },
+  {
+    "path": "/tianheg/til/tree/logseq",
+    "title": "tianheg/til at logseq",
+    "count": 6,
+    "uniques": 1
   },
   {
     "path": "/tianheg/til/blob/main/CHANGELOG.md",
     "title": "til/CHANGELOG.md at main · tianheg/til",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   },
   {
@@ -20,6 +26,18 @@
   {
     "path": "/tianheg/til/blob/main/references.md",
     "title": "til/references.md at main · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/commits/logseq",
+    "title": "Commits · tianheg/til",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/commits/main",
+    "title": "Commits · tianheg/til",
     "count": 1,
     "uniques": 1
   },
