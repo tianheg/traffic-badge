@@ -2,31 +2,7 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/actions",
-    "title": "Actions · tianheg/self",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/tree/gh-pages",
-    "title": "tianheg/self at gh-pages",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/actions/runs/957051619",
-    "title": "update: themes/meme · tianheg/self@42f88d2",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/self/actions/runs/957197673",
-    "title": "fix: add .gitmodules · tianheg/self@baae607",
-    "count": 1,
+    "count": 5,
     "uniques": 1
   }
 ]

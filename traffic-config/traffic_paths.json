@@ -2,48 +2,24 @@
   {
     "path": "/tianheg/config",
     "title": "tianheg/config: config files about git, zsh, vscode, and so on",
-    "count": 8,
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/tianheg/config/tree/main/shell",
-    "title": "config/shell at main · tianheg/config",
-    "count": 4,
+    "path": "/tianheg/config/blob/main/git/gitconfig",
+    "title": "config/gitconfig at main · tianheg/config",
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/config/blob/main/shell/nodeys.zsh-theme",
     "title": "config/nodeys.zsh-theme at main · tianheg/config",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/tianheg/config/blob/main/git/gitconfig",
-    "title": "config/gitconfig at main · tianheg/config",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/blob/main/shell/zshrc_ubuntu",
-    "title": "config/zshrc_ubuntu at main · tianheg/config",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/blob/main/shell/install-nodeys-zsh-theme.md",
-    "title": "config/install-nodeys-zsh-theme.md at main · tianheg/config",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/tianheg/config/blob/main/shell/zshrc",
     "title": "config/zshrc at main · tianheg/config",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/config/blob/main/git/config",
-    "title": "config/config at main · tianheg/config",
     "count": 1,
     "uniques": 1
   },
@@ -54,8 +30,32 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/config/blob/main/shell/zshrc_ubuntu",
+    "title": "config/zshrc_ubuntu at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/config/edit/main/git/gitconfig",
     "title": "Editing config/gitconfig at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/edit/main/shell/zshrc",
+    "title": "Editing config/zshrc at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/edit/main/shell/zshrc-simple",
+    "title": "Editing config/zshrc-simple at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/edit/main/shell/zshrc_ubuntu",
+    "title": "Editing config/zshrc_ubuntu at main · tianheg/config",
     "count": 1,
     "uniques": 1
   }
