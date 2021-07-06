@@ -2,19 +2,19 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 26,
+    "count": 27,
     "uniques": 2
+  },
+  {
+    "path": "/tianheg/blog/commits/main",
+    "title": "Commits · tianheg/blog",
+    "count": 8,
+    "uniques": 1
   },
   {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
     "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/commits/main",
-    "title": "Commits · tianheg/blog",
-    "count": 6,
     "uniques": 1
   },
   {
