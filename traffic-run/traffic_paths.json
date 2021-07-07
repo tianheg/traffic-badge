@@ -2,54 +2,12 @@
   {
     "path": "/tianheg/run",
     "title": "tianheg/run",
-    "count": 12,
+    "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/tianheg/run/actions",
-    "title": "Actions · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/blob/main/gatsby-config.js",
-    "title": "run/gatsby-config.js at main · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/blob/main/.github/workflows/gh-pages.yml",
-    "title": "run/gh-pages.yml at main · tianheg/run",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/tianheg/run/commit/8d96ae99b838923dd2a2b64ba75e8931cfddc1ab",
     "title": "initial commit · tianheg/run@8d96ae9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/edit/main/gatsby-config.js",
-    "title": "Editing run/gatsby-config.js at main · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/edit/main/.github/workflows/gh-pages.yml",
-    "title": "Editing run/gh-pages.yml at main · tianheg/run",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/tree/gh-pages",
-    "title": "tianheg/run at gh-pages",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/run/tree/main/.github/workflows",
-    "title": "run/.github/workflows at main · tianheg/run",
     "count": 1,
     "uniques": 1
   }

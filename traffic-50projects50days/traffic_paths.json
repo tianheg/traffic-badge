@@ -2,19 +2,13 @@
   {
     "path": "/tianheg/50projects50days",
     "title": "tianheg/50projects50days: Exercise as much as more",
-    "count": 49,
+    "count": 37,
     "uniques": 1
   },
   {
     "path": "/tianheg/50projects50days/commits/main",
     "title": "Commits · tianheg/50projects50days",
     "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/tree/main/expanding-cards",
-    "title": "50projects50days/expanding-cards at main · tianheg/50projects50days",
-    "count": 6,
     "uniques": 1
   },
   {
@@ -42,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/50projects50days/tree/main/rotating-nav-animation",
-    "title": "50projects50days/rotating-nav-animation at main · tianheg/50projects50days",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/50projects50days/blob/main/animated-navigation/index.html",
     "title": "50projects50days/index.html at main · tianheg/50projects50days",
     "count": 1,
@@ -55,6 +43,18 @@
   },
   {
     "path": "/tianheg/50projects50days/blob/main/progress-steps/README.md",
+    "title": "50projects50days/README.md at main · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/blob/main/README.md",
+    "title": "50projects50days/README.md at main · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/blob/main/rotating-nav-animation/README.md",
     "title": "50projects50days/README.md at main · tianheg/50projects50days",
     "count": 1,
     "uniques": 1
