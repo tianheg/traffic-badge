@@ -2,8 +2,8 @@
   {
     "path": "/tianheg/tris",
     "title": "tianheg/tris: tris, means a lot. If there is no correct icon for title, I cou...",
-    "count": 33,
-    "uniques": 1
+    "count": 38,
+    "uniques": 2
   },
   {
     "path": "/tianheg/tris/blob/main/README.md",
@@ -12,21 +12,51 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/tris/wiki",
+    "title": "GitHub · Where software is built",
+    "count": 9,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tris/wiki/Links-Library",
+    "title": "Links Library · tianheg/tris Wiki",
+    "count": 7,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/tris/edit/main/README.md",
     "title": "Editing tris/README.md at main · tianheg/tris",
-    "count": 6,
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tris/wiki/Links-Library/_edit",
+    "title": "Editing Links Library · tianheg/tris Wiki",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tris/wiki/Home/_edit",
+    "title": "Editing Home · tianheg/tris Wiki",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tris/wiki/_new",
+    "title": "Create New Page · tianheg/tris Wiki",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/tris/commit/45a18e59b858cfafa586252e721c7b4965561b08",
+    "title": "update · tianheg/tris@45a18e5",
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/tris/tree/main",
     "title": "tianheg/tris: tris, means a lot.",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/tris/new/main",
-    "title": "New File",
-    "count": 1,
     "uniques": 1
   }
 ]
