@@ -2,7 +2,19 @@
   {
     "path": "/tianheg/self",
     "title": "tianheg/self",
-    "count": 4,
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/tianheg/self/issues/1",
+    "title": "如何学哲学？ · Issue #1 · tianheg/self · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self/tree/main/data",
+    "title": "self/data at main · tianheg/self · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
