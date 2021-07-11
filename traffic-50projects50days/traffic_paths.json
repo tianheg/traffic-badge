@@ -2,7 +2,7 @@
   {
     "path": "/tianheg/50projects50days",
     "title": "tianheg/50projects50days: Exercise as much as more",
-    "count": 30,
+    "count": 16,
     "uniques": 1
   },
   {
@@ -14,24 +14,12 @@
   {
     "path": "/tianheg/50projects50days/issues",
     "title": "Issues · tianheg/50projects50days",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/issues/1",
-    "title": "目标网页没有自动添加 `/` 导致浏览器找不到页面 · Issue #1 · tianheg/50projects50days",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/tianheg/50projects50days/issues/2",
     "title": "目标网页没有自动添加 `index.html` 导致浏览器找不到页面 · Issue #2 · tianheg/50projects50days",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/issues/new",
-    "title": "New Issue · tianheg/50projects50days",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/tianheg/50projects50days/commit/454f49c732fd5964dc4e1f6a3576afee8b576186",
     "title": "format: use prettier · tianheg/50projects50days@454f49c",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/commit/891f84d6d26dd8fe28080bafce961774324222c8",
+    "title": "recover(https://github.com/tianheg/50projects50days/issues/2#issuecom… · tian...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/commit/c2378e9d3d18d1f9e88f057f2fd7413ff2bdda66",
+    "title": "modify: yarn.lock · tianheg/50projects50days@c2378e9",
     "count": 1,
     "uniques": 1
   }

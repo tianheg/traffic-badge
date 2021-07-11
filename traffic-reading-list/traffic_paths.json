@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/reading-list",
     "title": "tianheg/reading-list: Some books I read",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/tianheg/reading-list/projects/1",
     "title": "To be read",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -20,6 +20,12 @@
   {
     "path": "/tianheg/reading-list/edit/main/README.md",
     "title": "Editing reading-list/README.md at main · tianheg/reading-list",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/reading-list/projects",
+    "title": "Projects · tianheg/reading-list",
     "count": 1,
     "uniques": 1
   }
