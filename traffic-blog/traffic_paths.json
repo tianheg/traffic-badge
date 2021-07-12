@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 46,
+    "count": 47,
     "uniques": 3
   },
   {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
-    "count": 40,
+    "count": 41,
     "uniques": 1
   },
   {
@@ -20,7 +20,7 @@
   {
     "path": "/tianheg/blog/issues/new",
     "title": "New Issue · tianheg/blog",
-    "count": 12,
+    "count": 13,
     "uniques": 1
   },
   {
@@ -30,14 +30,14 @@
     "uniques": 4
   },
   {
-    "path": "/tianheg/blog/issues/65",
-    "title": "标签 · Issue #65 · tianheg/blog",
-    "count": 7,
+    "path": "/tianheg/blog/projects/1",
+    "title": "My blog will be",
+    "count": 8,
     "uniques": 1
   },
   {
-    "path": "/tianheg/blog/projects/1",
-    "title": "My blog will be",
+    "path": "/tianheg/blog/issues/65",
+    "title": "标签 · Issue #65 · tianheg/blog",
     "count": 7,
     "uniques": 1
   },
