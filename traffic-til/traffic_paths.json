@@ -2,14 +2,20 @@
   {
     "path": "/tianheg/til",
     "title": "tianheg/til: 📝 Today I Learned",
-    "count": 13,
-    "uniques": 3
+    "count": 14,
+    "uniques": 4
   },
   {
     "path": "/tianheg/til/tree/logseq",
     "title": "tianheg/til at logseq",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "path": "/tianheg/til/blob/main/references.md",
+    "title": "til/references.md at main · tianheg/til",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/tianheg/til/blob/main/CHANGELOG.md",
@@ -20,12 +26,6 @@
   {
     "path": "/tianheg/til/blob/main/LICENSE.md",
     "title": "til/LICENSE.md at main · tianheg/til",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/til/blob/main/references.md",
-    "title": "til/references.md at main · tianheg/til",
     "count": 1,
     "uniques": 1
   },
