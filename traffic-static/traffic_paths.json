@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/static",
     "title": "tianheg/static: jsDelivr CDN static",
-    "count": 2,
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/tianheg/static/commit/9e8b68536ed5e0bdc266d8f2a26aac882c206b99",
-    "title": "[ImgBot] Optimize images · tianheg/static@9e8b685",
-    "count": 1,
+    "path": "/tianheg/static/pulls",
+    "title": "Pull requests · tianheg/static",
+    "count": 5,
     "uniques": 1
   },
   {
@@ -18,8 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/static/pulls",
-    "title": "Pull requests · tianheg/static",
+    "path": "/tianheg/static/pull/6",
+    "title": "[ImgBot] Optimize images by imgbot · Pull Request #6 · tianheg/static",
     "count": 1,
     "uniques": 1
   }

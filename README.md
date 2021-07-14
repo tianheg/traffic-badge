@@ -184,66 +184,6 @@
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-blog-org/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-blog-org)
 ```
 
-## 📚 [Bootstrap-5-portfolio](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-Bootstrap-5-portfolio)
-
-### 📷 Badges without link of [Bootstrap-5-portfolio](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-Bootstrap-5-portfolio)
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Bootstrap-5-portfolio](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-Bootstrap-5-portfolio)
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-
-```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-Bootstrap-5-portfolio/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-Bootstrap-5-portfolio)
-```
-
-## 📚 [campus-network](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-campus-network)
-
-### 📷 Badges without link of [campus-network](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-campus-network)
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [campus-network](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-campus-network)
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-
-```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-campus-network/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-campus-network)
-```
-
 ## 📚 [config](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-config)
 
 ### 📷 Badges without link of [config](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-config)
@@ -662,36 +602,6 @@
 [![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-logo-design/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-logo-design)
 [![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-logo-design/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-logo-design)
 [![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-logo-design/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-logo-design)
-```
-
-## 📚 [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
-
-### 📷 Badges without link of [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
-
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)
-![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)
-![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [monsterspotting.com](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-monsterspotting.com)
-
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-
-```markdown
-[![views](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![views per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/views_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![clones](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
-[![clones per week](https://raw.githubusercontent.com/tianheg/traffic-badge/traffic/traffic-monsterspotting.com/clones_per_week.svg)](https://github.com/tianheg/traffic-badge/tree/traffic#-monsterspotting.com)
 ```
 
 ## 📚 [new-repo-template](https://github.com/tianheg/traffic-badge/tree/traffic/traffic-new-repo-template)

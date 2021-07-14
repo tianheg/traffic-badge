@@ -2,19 +2,7 @@
   {
     "path": "/tianheg/50projects50days",
     "title": "tianheg/50projects50days: Exercise as much as more",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/commits/main",
-    "title": "Commits · tianheg/50projects50days",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/issues",
-    "title": "Issues · tianheg/50projects50days",
-    "count": 2,
+    "count": 13,
     "uniques": 1
   },
   {
@@ -36,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/50projects50days/commit/226f86333193b1a352a5d0de9b1c172e90b5a0bd",
-    "title": "delete: `<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />` · tianheg/5...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/tianheg/50projects50days/commit/454f49c732fd5964dc4e1f6a3576afee8b576186",
     "title": "format: use prettier · tianheg/50projects50days@454f49c",
     "count": 1,
@@ -56,6 +38,24 @@
   {
     "path": "/tianheg/50projects50days/commit/c2378e9d3d18d1f9e88f057f2fd7413ff2bdda66",
     "title": "modify: yarn.lock · tianheg/50projects50days@c2378e9",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/commits/main",
+    "title": "Commits · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/issues",
+    "title": "Issues · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/50projects50days/issues/new",
+    "title": "New Issue · tianheg/50projects50days",
     "count": 1,
     "uniques": 1
   }
