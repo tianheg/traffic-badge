@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "path": "/tianheg/new-repo-template",
+    "title": "tianheg/new-repo-template: for my own real project",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/new-repo-template/blob/main/.github/FUNDING.yml",
+    "title": "new-repo-template/FUNDING.yml at main · tianheg/new-repo-template",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/new-repo-template/blob/main/.editorconfig",
+    "title": "new-repo-template/.editorconfig at main · tianheg/new-repo-template",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/new-repo-template/edit/main/.github/FUNDING.yml",
+    "title": "Editing new-repo-template/FUNDING.yml at main · tianheg/new-repo-template",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/new-repo-template/new/main",
+    "title": "New File",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/new-repo-template/tree/main",
+    "title": "tianheg/new-repo-template: for my own real project",
+    "count": 1,
+    "uniques": 1
+  }
+]
