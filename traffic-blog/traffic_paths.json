@@ -2,13 +2,13 @@
   {
     "path": "/tianheg/blog/issues",
     "title": "Issues · tianheg/blog",
-    "count": 41,
+    "count": 40,
     "uniques": 1
   },
   {
     "path": "/tianheg/blog",
     "title": "tianheg/blog: Blog Source Files",
-    "count": 37,
+    "count": 38,
     "uniques": 2
   },
   {
@@ -32,7 +32,7 @@
   {
     "path": "/tianheg/blog/projects/1",
     "title": "My blog will be",
-    "count": 8,
+    "count": 9,
     "uniques": 1
   },
   {
@@ -42,21 +42,21 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/blog/projects",
+    "title": "Projects · tianheg/blog",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/blog/discussions",
+    "title": "Discussions · tianheg/blog",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/blog/issues/107",
     "title": "期末考的始终 · Issue #107 · tianheg/blog",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/projects",
-    "title": "Projects · tianheg/blog",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/blog/issues/108",
-    "title": "Dr. Strangelove(奇爱博士) · Issue #108 · tianheg/blog",
-    "count": 4,
     "uniques": 1
   }
 ]

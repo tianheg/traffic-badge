@@ -2,7 +2,19 @@
   {
     "path": "/tianheg/config",
     "title": "tianheg/config: config files about git, zsh, vscode, and so on",
-    "count": 5,
+    "count": 9,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/blob/main/vscode/.prettierrc",
+    "title": "config/.prettierrc at main · tianheg/config",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/edit/main/vscode/.prettierrc",
+    "title": "Editing config/.prettierrc at main · tianheg/config",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -18,8 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/config/blob/main/vscode/.prettierrc",
-    "title": "config/.prettierrc at main · tianheg/config",
+    "path": "/tianheg/config/commits/main",
+    "title": "Commits · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/compare/516f0f8a75b75007c0541ec853a7bd3efec89592...ed66a77f410396fc8b90796c17dd592f93286912",
+    "title": "Comparing 516f0f8a75b75007c0541ec853a7bd3efec89592...ed66a77f410396fc8b90796c...",
     "count": 1,
     "uniques": 1
   },
@@ -30,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/tianheg/config/edit/main/vscode/.prettierrc",
-    "title": "Editing config/.prettierrc at main · tianheg/config",
+    "path": "/tianheg/config/edit/main/vscode/README.md",
+    "title": "Editing config/README.md at main · tianheg/config",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/config/tree-save/main/vscode/README.md",
+    "title": "Editing config/README.md at main · tianheg/config",
     "count": 1,
     "uniques": 1
   }

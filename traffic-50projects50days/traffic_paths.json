@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/tianheg/50projects50days/blob/main/prac/document.doctype.js",
+    "title": "50projects50days/document.doctype.js at main · tianheg/50projects50days",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/tianheg/50projects50days/blob/main/split-landing-page/style.css",
     "title": "50projects50days/style.css at main · tianheg/50projects50days",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/tianheg/50projects50days/issues",
     "title": "Issues · tianheg/50projects50days",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/tianheg/50projects50days/issues/new",
-    "title": "New Issue · tianheg/50projects50days",
     "count": 1,
     "uniques": 1
   }

@@ -1,14 +1,14 @@
 [
   {
-    "path": "/tianheg/self",
-    "title": "tianheg/self",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/tianheg/self/issues/1",
     "title": "如何学哲学？ · Issue #1 · tianheg/self · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/tianheg/self",
+    "title": "GitHub - tianheg/self",
+    "count": 1,
     "uniques": 1
   },
   {
